@@ -1,0 +1,39 @@
+name: Deploy
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+  workflow_run:
+    branches: [master]
+    workflows: ["Update data"]
+    types:
+      - completed
+
+defaults:
+  run:
+    working-directory: website
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'push' || github.event.workflow_run.conclusion == 'success' }}
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          repository: ${{ github.repository_owner }}/equalstreetnames
+          persist-credentials: false
+          submodules: true
+      - run: npm install
+      - run: npm run build:switzerland:zurich
+        env:
+          MAPBOX_TOKEN: ${{ secrets.MAPBOX_TOKEN }}
+
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@3.6.2
+        with:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          REPOSITORY_NAME: ${{ github.repository }}
+          BRANCH: gh-pages # The branch the action should deploy to.
+          FOLDER: 'website/dist/switzerland/zurich' # The folder the action should deploy.
+          CLEAN: true # Automatically remove deleted files from the deploy branch
