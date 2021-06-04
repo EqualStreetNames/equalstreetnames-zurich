@@ -1,4 +1,10 @@
 name,source,gender,wikidata,type
+Bahnhofplatz,wikidata,,Q224494,way
+Felix-und-Regula-Platz,wikidata,,Q114723;Q27322838;Q27323313,way
+Idaplatz,wikidata,,Q644599,way
+Maneggbrücke,wikidata,,Q691236,way
+Rathausbrücke,wikidata,,Q9315546,way
+Sechseläutenplatz,wikidata,,Q520500,relation
 Aargauerstrasse,,,,way
 Abeggweg,,,,way
 Abendweg,,,,way
@@ -23,10 +29,8 @@ Ahornstrasse,,,,way
 Akazienstrasse,,,,way
 "Albert Schumacher-Weg",,,,way
 Albert-Einstein-Strasse,,,,way
-Albert-Näf-Platz,,,,way
 Albert-Schneider-Weg,,,,way
 Albertstrasse,,,,way
-Albin-Zollinger-Platz,,,,way
 Albisgütliweg,,,,way
 Albisriederplatz,,,,way
 Albisriederstrasse,,,,relation+way
@@ -91,7 +95,6 @@ Ankengasse,,,,way
 Ankenweid,,,,way
 Ankerstrasse,,,,relation
 Anna-Heer-Strasse,,,,way
-Anny-Klawa-Platz,,,,way
 Anton-Higi-Strasse,,,,way
 Anwandstrasse,,,,relation
 Apfelbaumstrasse,,,,way
@@ -121,7 +124,6 @@ Aubruggweg,,,,way
 "Auf der Egg",,,,way
 "Auf der Mauer",,,,way
 August-Forel-Strasse,,,,way
-Auguste-Piccard-Hof,,,,way
 Augustinergasse,,,,way
 Augustinerhof,,,,way
 Auhofstrasse,,,,way
@@ -153,7 +155,6 @@ Badweg,,,,way
 Bahnhaldenstrasse,,,,way
 Bahnhofbrücke,,,,way
 Bahnhofpassage,,,,relation
-Bahnhofplatz,,,,way
 Bahnhofquai,,,,way
 Bahnhofstrasse,,,,way
 Bahnweg,,,,way
@@ -442,7 +443,6 @@ Dunkelhölzlifussweg,,,,way
 Dunkelhölzlistrasse,,,,way
 Dunkelhölzliweg,,,,way
 "Durchgang In Gassen",,,,way
-Duttweilerbrücke,,,,way
 Duttweilerstrasse,,,,way
 Ebelstrasse,,,,way
 Edelweissstrasse,,,,way
@@ -494,8 +494,6 @@ Else-Lasker-Schüler-Weg,,,,way
 Else-Züblin-Strasse,,,,way
 Else-Züblin-Weg,,,,way
 Emil-Klöti-Strasse,,,,way
-Emil-Oberhänsli-Platz,,,,way
-Emil-Oprecht-Platz,,,,way
 Emil-Oprecht-Strasse,,,,way
 Emil-Rütti-Weg,,,,way
 Emil-Spillmann-Weg,,,,way
@@ -528,7 +526,6 @@ Erlenweg,,,,way
 Erligatterweg,,,,way
 Ernastrasse,,,,way
 "Ernst Greutmann-Weg",,,,way
-Ernst-Nobs-Platz,,,,way
 Ernst-Zöbeli-Strasse,,,,way
 Ernst-Zöbeli-Weg,,,,way
 Eschenhaustrasse,,,,way
@@ -570,7 +567,6 @@ Feldeggstrasse,,,,way
 Feldenmoosstrasse,,,,way
 Feldgütliweg,,,,relation
 Feldstrasse,,,,relation
-Felix-und-Regula-Platz,,,,way
 Fellenbergstrasse,,,,way
 Fellenbergweg,,,,way
 Felsenkellerweg,,,,way
@@ -804,7 +800,6 @@ Guggerweg,,,,way
 Gugolzstrasse,,,,way
 Gujerstrasse,,,,way
 Guldinerweg,,,,way
-Gustav-Gull-Platz,,,,way
 Gustav-Heinrich-Weg,,,,way
 Gustave-Naville-Weg,,,,way
 Gutenbergstrasse,,,,way
@@ -889,7 +884,6 @@ Heidi-Abel-Weg,,,,way
 Heidwiesen,,,,way
 Heilighüsli,,,,way
 Heimatstrasse,,,,way
-Heimplatz,,,,way
 Heimstrasse,,,,way
 Heinrich-Federer-Strasse,,,,way
 Heinrich-Gretler-Weg,,,,way
@@ -1033,7 +1027,6 @@ Huttensteig,,,,way
 Huttenstrasse,,,,way
 Hüttisstrasse,,,,way
 Ida-Bindschedler-Strasse,,,,way
-Idaplatz,,,,way
 Idastrasse,,,,way
 Ilanzhofweg,,,,way
 Ilgenstrasse,,,,way
@@ -1123,13 +1116,10 @@ Jenatschstrasse,,,,way
 Joachim-Hefti-Weg,,,,way
 Johannes-Ott-Weg,,,,way
 Johannesgasse,,,,way
-John-von-Neumann-Weg,,,,way
 Jonas-Furrer-Strasse,,,,way
 Josefstrasse,,,,way
-Joseph-von-Deschwanden-Platz,,,,way
 Jucheggstrasse,,,,way
 Juchstrasse,,,,way
-Judith-Gessner-Platz,,,,way
 Juliastrasse,,,,way
 Jungholzstrasse,,,,way
 Jungholzweg,,,,way
@@ -1410,9 +1400,7 @@ Luisenstrasse,,,,way
 Lunastrasse,,,,way
 Lureiweg,,,,way
 Lutherstrasse,,,,relation
-Lux-Guyer-Weg,,,,way
 Lybensteinweg,,,,way
-Lydia-Welti-Escher-Hof,,,,way
 Lyrenweg,,,,way
 Maagplatz,,,,relation
 Magdalenenstrasse,,,,way
@@ -1426,7 +1414,6 @@ Malergasse,,,,way
 Malojaweg,,,,way
 Malvenstrasse,,,,way
 Malzstrasse,,,,way
-Maneggbrücke,,,,way
 Maneggplatz,,,,way
 Maneggpromenade,,,,way
 Maneggstrasse,,,,way
@@ -1464,7 +1451,6 @@ Mattengasse,,,,way
 Mattenhof,,,,way
 Mattensteg,,,,way
 Max-Bill-Platz,,,,way
-Max-Frisch-Platz,,,,way
 Max-Högger-Strasse,,,,way
 Max-Hunziker-Weg,,,,way
 Medikerweg,,,,way
@@ -1714,7 +1700,6 @@ Rankstrasse,,,,way
 Rässlerweg,,,,way
 "Rastplatz Büsisee Nord",,,,way
 "Rastplatz Büsisee Süd",,,,way
-Rathausbrücke,,,,way
 Räuberweg,,,,way
 Rautihalde,,,,way
 Rautistrasse,,,,way
@@ -1734,7 +1719,6 @@ Redingstrasse,,,,way
 Regensbergbrücke,,,,way
 Regensbergstrasse,,,,way
 Regensdorferstrasse,,,,way
-Regina-Kägi-Hof,,,,way
 Regina-Kägi-Strasse,,,,way
 Reginastrasse,,,,way
 Regulastrasse,,,,way
@@ -1828,7 +1812,6 @@ Rückgasse,,,,way
 Rüdenplatz,,,,way
 Rudenzweg,,,,way
 Rüdigerstrasse,,,,way
-Rudolf-Brun-Brücke,,,,way
 Rudolf-Hägi-Strasse,,,,way
 Rudolfstrasse,,,,way
 Ruedi-Walter-Strasse,,,,way
@@ -1971,7 +1954,6 @@ Schwendenweg,,,,way
 Schwertstrasse,,,,way
 Schwertweg,,,,way
 Schwingerstrasse,,,,way
-Sechseläutenplatz,,,,relation
 Seebacherstrasse,,,,way
 Seebahnstrasse,,,,relation+way
 Seeblickstrasse,,,,way
@@ -2093,7 +2075,6 @@ Stationsstrasse,,,,way
 Staubstrasse,,,,way
 Staudenbühlweg,,,,way
 Staudenweg,,,,way
-Stauffacherbrücke,,,,way
 Stauffacherquai,,,,way
 Stauffacherstrasse,,,,relation+way
 Stefano-Franscini-Platz,,,,way
@@ -2149,7 +2130,6 @@ Südstrasse,,,,way
 Sumatrasteig,,,,way
 Sumatrastrasse,,,,way
 "Sunnige Hof",,,,way
-Susanna-Gossweiler-Platz,,,,way
 Susenbergstrasse,,,,way
 Sustenstrasse,,,,way
 Sustenweg,,,,way
@@ -2457,7 +2437,6 @@ Zweiackerstrasse,,,,way
 Zweierstrasse,,,,relation+way
 Zwidenweg,,,,way
 Zwielplatz,,,,way
-Zwingliplatz,,,,way
 Zwinglistrasse,,,,relation
 Zwirnerhalde,,,,way
 Zwirnerstrasse,,,,way
