@@ -13,3 +13,7 @@ Direct links to access the `sv_str_verz` Datatable of Strassennamenverzeichnis:
 - [Dataset reduced with the properties above as geojson](https://www.ogd.stadt-zuerich.ch/wfs/geoportal/Strassennamenverzeichnis?service=WFS&version=1.1.0&request=GetFeature&outputFormat=GeoJSON&typename=sv_str_verz&propertyname=str_name,snb_erlaeuterung,snb_tafeltext_1)
 
 Strassennamenverzeichnis is published under [Creative Commons CCZero](https://opendefinition.org/licenses/cc-zero/) Licence
+
+
+## ToDo
+- [ ] The official Strassenverzeichnis lists 2'542 named Streets in Zürich. Equalstreetnames mentiones 2'472 named Streets. Why is there a difference?
