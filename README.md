@@ -65,6 +65,10 @@ Additional "nice to have":
 eg when adding a ```date of birth``` as quoted in the Strassenverzeichnis choose ```add reference``` with:
 ```stated in = Q27320908```. See [Anna Häuptli](https://www.wikidata.org/wiki/Q27323074) for an example.
 
+### Wikidata ID to Openstreetmap
+To let the street get colored on equalstreetname add the Wikidata ID to the street-segment on openstreetmap.
+Use ```name:etymology:wikidata=Q[....]``` see [Carl-Spitteler-Strasse](https://www.openstreetmap.org/way/15273002) as an Exampel. If there exist also an Article on Wikipedia even better! Use ```name:etymology:wikipedia```. In the Example of Carl-Spitteler -Strasse this will be: ```name:etymology:wikipedia=de:Carl Spitteler```
+
 
 ## ToDo
 - [ ] The official Strassenverzeichnis lists 2'542 named Streets in Zürich. Equalstreetnames mentiones 2'472 named Streets. Why is there a difference?
