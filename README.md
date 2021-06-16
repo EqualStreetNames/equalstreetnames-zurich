@@ -47,11 +47,11 @@ A fully featured Wikidata Entry (in Terms of equalstreetnames.zurich) contains a
 in English.
 
 Properties:
-* instance of (P31) = human (Q5)
-* Image (P18)
-* sex or gender (P21)
-* date of birth (P569)
-* date of death (P570)
+* ```instance of``` (P31) = ```human``` (Q5)
+* ```Image``` (P18)
+* ```sex or gender``` (P21)
+* ```date of birth``` (P569)
+* ```date of death``` (P570)
 
 Identifiers:
 * HDS ID (P902)
@@ -59,8 +59,11 @@ Identifiers:
 Additional "nice to have":
 * Label and Description in German
 * Properties
-  * commemorative plaque image (P1801). Image of the Tafeltext of the Street. See snb_tafeltext_1 of Strassenverzeichnis.
+  * ```commemorative plaque image``` (P1801). Image of the Tafeltext of the Street. See snb_tafeltext_1 of Strassenverzeichnis.
 
+:warning: If you add Informations to Wikidata don't forget to quote your source.
+eg when adding a ```date of birth``` as quoted in the Strassenverzeichnis choose ```add reference``` with:
+```stated in = Q27320908```. See [Anna Häuptli](https://www.wikidata.org/wiki/Q27323074) for an example.
 
 
 ## ToDo
