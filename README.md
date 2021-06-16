@@ -40,8 +40,8 @@ As written above, around 600 Streets are named after a "Person". The named Stree
   * Woloweg
   * Wibichstrasse
 
-### Create "fully featured" Wikidata Entrys
-A fully featured Wikidata Entry contains a 
+### Create "fully featured" Wikidata Entrys of a Person
+A fully featured Wikidata Entry (in Terms of equalstreetnames.zurich) contains a 
 * Label
 * Description
 in English.
@@ -53,7 +53,7 @@ Properties:
 * date of birth (P569)
 * date of death (P570)
 
-Ientifiers:
+Identifiers:
 * HDS ID (P902)
 
 Additional "nice to have":
@@ -65,4 +65,4 @@ Additional "nice to have":
 
 ## ToDo
 - [ ] The official Strassenverzeichnis lists 2'542 named Streets in Zürich. Equalstreetnames mentiones 2'472 named Streets. Why is there a difference?
-- [ ] List of all 606 Streetnames on Github.
+- [ ] List of all ~600 Streetnames on Github.
