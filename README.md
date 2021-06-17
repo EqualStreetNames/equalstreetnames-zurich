@@ -42,8 +42,8 @@ As written above, around 600 Streets are named after a "Person". The named Stree
 
 ### Create "fully featured" Wikidata Entrys of a Person
 A fully featured Wikidata Entry (in Terms of equalstreetnames.zurich) contains a 
-* Label
-* Description
+* ```Label```
+* ```Description```
 in English.
 
 Properties:
@@ -54,16 +54,21 @@ Properties:
 * ```date of death``` (P570)
 
 Identifiers:
-* HDS ID (P902)
+* ```HDS ID``` (P902)
 
 Additional "nice to have":
-* Label and Description in German
+* ```Label``` and ```Description``` in German
 * Properties
   * ```commemorative plaque image``` (P1801). Image of the Tafeltext of the Street. See snb_tafeltext_1 of Strassenverzeichnis.
 
-:warning: If you add Informations to Wikidata don't forget to quote your source.
-eg when adding a ```date of birth``` as quoted in the Strassenverzeichnis choose ```add reference``` with:
-```stated in = Q27320908```. See [Anna Häuptli](https://www.wikidata.org/wiki/Q27323074) for an example.
+:warning: Declare Sources :warning:
+
+If you add Informations to Wikidata don't forget to quote your source.
+
+Adding Information from the Strassenverzeichnis to a Statement:
+* click ```add reference``` 
+* choose ```stated in``` = ```Street name directory Zurich``` (Q27320908).
+* Example: ```date of birth``` of [Anna Häuptli](https://www.wikidata.org/wiki/Q27323074).
 
 ### Wikidata ID to Openstreetmap
 To let the street get colored on equalstreetname add the Wikidata ID to the street-segment on openstreetmap.
