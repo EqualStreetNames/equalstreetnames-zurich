@@ -26,7 +26,7 @@ As written above, around 600 Streets are named after a "Person". The named Stree
 * Named after a Person with fully featured Wikidata Entry exists. eg.:
   * [Else Züblin-Spiller](https://www.wikidata.org/wiki/Q1333744)
 * Named after a Person without a Wikidata Entry. Usualy zurich citizens. eg.:
-  * Algierstrasse
+  * Laura-Hezner-Weg
 * Named after a certain Persons occupation, because they were working at this street. eg.:
   * Eisengasse
   * Drehergasse
