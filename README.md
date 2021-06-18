@@ -61,7 +61,7 @@ Identifiers:
 Additional "nice to have":
 * ```label``` and ```description``` in German
 * properties
-  * ```commemorative plaque image``` (P1801). Image of the Tafeltext of the Street. See snb_tafeltext_1 of Strassenverzeichnis.
+  * ```commemorative plaque image``` (P1801). Image of the Tafeltext of the Street. See snb_tafeltext_1 of Strassenverzeichnis. Example: [Ernst Nobs](https://www.wikidata.org/wiki/Q115561)
 
 :warning: Declare Sources :warning:
 
