@@ -25,9 +25,10 @@ The aim of this capter is to provide a guideline on how to collect, store and li
 As written above, around 600 Streets are named after a "person". The named streets can be categorised by:
 * Named after a person with fully featured Wikidata entry exists. eg.:
   * [Else Züblin-Spiller](https://www.wikidata.org/wiki/Q1333744)
+
 * Named after a person without a Wikidata entry. Usually citizens of Zurich. eg.:
-  * Algierstrasse
-* Named after a certain person's occupation, because they were working at this street. eg.:
+  * Laura-Hezner-Weg
+* Named after a certain person's occupation, because they were working at this street eg.:
   * Eisengasse
   * Drehergasse
   * Feilengasse
@@ -40,10 +41,11 @@ As written above, around 600 Streets are named after a "person". The named stree
   * Woloweg
   * Wibichstrasse
 
+
 ### Create "fully featured" Wikidata entries of a person
 A fully featured Wikidata Entry (in terms of equalstreetnames.zurich) contains a 
-* label
-* description
+* ```label```
+* ```description```
 in English.
 
 Properties:
@@ -54,16 +56,21 @@ Properties:
 * ```date of death``` (P570)
 
 Identifiers:
-* HDS ID (P902)
+* ```HDS ID``` (P902)
 
 Additional "nice to have":
-* label and Description in German
+* ```label``` and ```description``` in German
 * properties
   * ```commemorative plaque image``` (P1801). Image of the Tafeltext of the Street. See snb_tafeltext_1 of Strassenverzeichnis.
 
-:warning: If you add Information to Wikidata, don't forget to quote your source.
-e.g. when adding a ```date of birth``` as quoted in the Strassenverzeichnis choose ```add reference``` with:
-```stated in = Q27320908```. See [Anna Häuptli](https://www.wikidata.org/wiki/Q27323074) as an example.
+:warning: Declare Sources :warning:
+
+If you add Information to Wikidata, don't forget to quote your source.
+
+Adding Information from the Strassenverzeichnis to a Statement:
+* click ```add reference``` 
+* choose ```stated in``` = ```Street name directory Zurich``` (Q27320908).
+* Example: ```date of birth``` of [Anna Häuptli](https://www.wikidata.org/wiki/Q27323074).
 
 ### Wikidata ID to Openstreetmap
 To let the streets get coloured on equalstreetnames add the Wikidata ID to the street-segment on openstreetmap.
