@@ -69,8 +69,19 @@ If you add Information to Wikidata, don't forget to quote your source.
 
 Adding Information from the Strassenverzeichnis to a Statement:
 * click ```add reference``` 
-* choose ```stated in``` = ```Street name directory Zurich``` (Q27320908).
-* Example: ```date of birth``` of [Anna Häuptli](https://www.wikidata.org/wiki/Q27323074).
+* choose:
+  * ```stated in``` = ```Street name directory Zurich``` (Q27320908)
+  * ```retrieved``` = Date of Day you entered the Information (Usualy Today)
+* Example: ```date of birth``` of [Anna Häuptli](https://www.wikidata.org/wiki/Q27323074)
+
+Adding Information from the [Historical Dictionary of Switzerland](https://hls-dhs-dss.ch) to a Statement:
+* click ```add reference``` 
+* choose:
+  * ```stated in``` = ```Historical Dictionary of Switzerland``` (Q642074)
+  * ```retrieved``` = Date of Day you entered the Information (Usualy Today)
+  * ```reference URL``` = URL to the article like https://hls-dhs-dss.ch/de/articles/009370/2012-09-11/
+* Example: ```place of birth``` of [Erika Rikli](https://www.wikidata.org/wiki/Q96489752)
+
 
 ### Wikidata ID to Openstreetmap
 To let the streets get coloured on equalstreetnames add the Wikidata ID of the person on [Openstreetmap](https://www.openstreetmap.org/) to the street-segment as an etymonology-Attribut.
