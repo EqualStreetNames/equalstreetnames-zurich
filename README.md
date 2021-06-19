@@ -85,3 +85,4 @@ If there also exists an article on Wikipedia, even better! Use
 ## ToDo
 - [ ] The official Strassenverzeichnis lists 2'542 named streets in Zürich. Equalstreetnames mentiones 2'472 named Streets. Why is there a difference?
 - [ ] List of all ~600 Streetnames on Github.
+- [ ] Ask [frauenstadtrundgangzuerich.ch](www.frauenstadtrundgangzuerich.ch) to use Videos of [Digital Stadtrundgänge](https://www.frauenstadtrundgangzuerich.ch/digitale-rundg%C3%A4nge) on Wikimedia
