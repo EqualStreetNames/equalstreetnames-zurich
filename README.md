@@ -25,19 +25,30 @@ More about [HLS on Wikipedia](https://de.wikipedia.org/wiki/Historisches_Lexikon
 [HLS](https://hls-dhs-dss.ch) is published under [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). See also Nutzungsbedingungen of HLS: [Urheberrechte und Verwendung der HLS-Inhalte](https://hls-dhs-dss.ch/de/about/usage#HUrheberrechteundVerwendungderHLS-Inhalte)
 
 You may use HLS to add Information on Wikidata / Wikipedia and even create a Wikipedia-article entirely based on an HLS-article. 
-:warning: If you do so, Cite all Informations! See section on How To.
+:warning: If you do so, Cite all Informations! See section on How to.
 
 
 # How to
-The aim of this capter is to provide a guideline on how to collect, store and link the required data so it can be used by equalstreetnames
+The aim of this section is to provide a guideline on how to collect, store and link the required data so it can be used by equalstreetnames.
 
-## Identify named Streets
-As written above, around 600 Streets are named after a "person". The named streets can be categorised by:
-* Named after a person with fully featured Wikidata entry exists. eg.:
-  * [Else Züblin-Spiller](https://www.wikidata.org/wiki/Q1333744)
+Basic steps are:
+1. Identifiy a Street named after a Person
+2. Find the according Wikidata-Entry of this Person
+3. Add the Wikidata Identifier on Openstreetmap to the Street
+
+See following sections to find out more about the work that can be done.
+
+## Identify Streets named after a Person
+As written in the Strassenverzeichnis Section of the Data Capter, around 600 Streets are named after a "person". The named streets can be categorised by:
+* Named after a person with an existing Wikidata entry.
+  * Example: [Else Züblin-Spiller](https://www.wikidata.org/wiki/Q1333744)
 
 * Named after a person without a Wikidata entry. Usually citizens of Zurich. eg.:
   * Laura-Hezner-Weg
+* Named after a historical person, not 100% sure if they exist. eg.:
+  * Flobotstrasse
+  * Woloweg
+  * Wibichstrasse
 * Named after a certain person's occupation, because they were working at this street eg.:
   * Eisengasse
   * Drehergasse
@@ -46,37 +57,41 @@ As written above, around 600 Streets are named after a "person". The named stree
   * Freyastrasse
   * Florastrasse
   * Fortunagasse
-* Named after a historical person, not 100% sure if they exist. eg.:
-  * Flobotstrasse
-  * Woloweg
-  * Wibichstrasse
 
+## Identify Wikidata entries of a person
 
-## Create "fully featured" Wikidata entries of a person
-A fully featured Wikidata Entry (in terms of equalstreetnames.zurich) contains a 
-* `label`
-* `description`
-in English.
+### Basic Wikidata Entry
+To make the map of equalstreetnames work, a wikidata entry needs following:
+* `label` (in English)
+* `description` (in English)
 
-Properties:
-* `instance of` (P31) = `human` (Q5)
-* `image` (P18)
-* `sex or gender` (P21)
-* `date of birth` (P569)
-* `date of death` (P570)
+* Statements:
+ * `instance of` (P31) = `human` (Q5)
+ * `sex or gender` (P21) with following possible values:
+  * `femal` (Q6581072)
+  * `male` (Q6581097)
 
-Identifiers:
-* `HDS ID` (P902)
+### Advanced Wikidata Entry
+If you know more about a Person and you feel like to share this with Wikidata. Here some suggestions what you could add additionaly:
+* `label` (in German)
+* `description` (in German)
 
-Additional "nice to have":
-* `label` and `description` in German
-* properties
-  * `commemorative plaque image` (P1801). Image of the Tafeltext of the Street. See snb_tafeltext_1 of Strassenverzeichnis. Example: [Ernst Nobs](https://www.wikidata.org/wiki/Q115561)
+* Statements:
+  * `image` (P18)
+  * `date of birth` (P569)
+  * `place of birth` (P19)
+  * `date of death` (P570)
+  * `place of death` (P20)
+  * `commemorative plaque image` (P1801). Image of the Tafeltext of the Street. The Text should be according to snb_tafeltext_1 of Strassenverzeichnis. Example: [Ernst Nobs](https://www.wikidata.org/wiki/Q115561)
 
-:warning: Declare Sources :warning:
+* Identifiers:
+  * `HDS ID` (P902). Link to the HLS-article-Nr of this person. Example: [Annemarie Schwarzenbach](https://www.wikidata.org/wiki/Q123368)
 
-If you add Information to Wikidata, don't forget to quote your source.
+### :warning: Declare Sources on Wikidata :warning:
 
+If you add Information to Wikidata, don't forget to cite your source.
+
+#### Information from Strassenverzeichnis
 Adding Information from the Strassenverzeichnis to a Statement:
 * click `add reference`
 * choose:
@@ -84,13 +99,19 @@ Adding Information from the Strassenverzeichnis to a Statement:
   * `retrieved` = Date of Day you entered the Information (Usualy Today)
 * Example: `date of birth` of [Anna Häuptli](https://www.wikidata.org/wiki/Q27323074)
 
-Adding Information from the [Historical Dictionary of Switzerland](https://hls-dhs-dss.ch) to a Statement:
+#### Information from HLS 
+Adding Information from the HLS to a Statement
 * click `add reference` 
 * choose:
   * `stated in` = `Historical Dictionary of Switzerland` (Q642074)
   * `retrieved` = Date of Day you entered the Information (Usualy Today)
   * `reference URL` = URL to the article like https://hls-dhs-dss.ch/de/articles/009370/2012-09-11/
 * Example: `place of birth` of [Erika Rikli](https://www.wikidata.org/wiki/Q96489752)
+
+### Wikipedia article
+
+
+### :warning: Declare Sources on Wikipedia :warning:
 
 
 ## Wikidata ID to Openstreetmap
