@@ -85,7 +85,7 @@ If you know more about a Person and you feel like to share this with Wikidata. H
   * `place of birth` (P19)
   * `date of death` (P570)
   * `place of death` (P20)
-  * `commemorative plaque image` (P1801). Image of the Tafeltext of the Street. The Text should be according to snb_tafeltext_1 of Strassenverzeichnis. Example: [Ernst Nobs](https://www.wikidata.org/wiki/Q115561)
+  * `commemorative plaque image` (P1801). Image of the Tafeltext of the Street. The Text should be according to snb_tafeltext_1 of Strassenverzeichnis. Check [Wikimedia Category "Street_signs_in_Zürich"](https://commons.wikimedia.org/wiki/Category:Street_signs_in_Z%C3%BCrich). Example: [Ernst Nobs](https://www.wikidata.org/wiki/Q115561)
 
 * Identifiers:
   * `HDS ID` (P902). Link to the HLS-article-Nr of this person. Example: [Annemarie Schwarzenbach](https://www.wikidata.org/wiki/Q123368)
