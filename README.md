@@ -67,9 +67,12 @@ To make the map of equalstreetnames work, a wikidata entry needs following:
 
 * Statements:
   * `instance of` (P31) = `human` (Q5)
-  * `sex or gender` (P21) with following possible values:
+  * `sex or gender` (P21) with following possible values according to Propertydefinition:
     * `femal` (Q6581072)
+    * `intersex` (Q1097630)
     * `male` (Q6581097)
+    * `transgender female` (Q1052281)
+    * `transgender male` (Q2449503)
 
 ### Advanced Wikidata Entry
 If you know more about a Person and you feel like to share this with Wikidata. Here some suggestions what you could add additionaly:
