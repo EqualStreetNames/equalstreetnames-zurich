@@ -1,7 +1,7 @@
 # :blue_heart: Welcome to EqualStreetNames Zurich :blue_heart:
 :blue_heart: :white_circle: :blue_heart: :white_circle: :blue_heart: Sali bi EqualStreetNames Züri :blue_heart: :white_circle: :blue_heart: :white_circle: :blue_heart:
 
-We use this readme to document all used data and to provide a guideline on how to link this data so they can be used by equalstreetnames
+We use this readme to document all used data and to provide a guideline on how to link this data for equalstreetnames
 
 # Data
 ## Strassenverzeichnis der Stadt Zürich
@@ -17,7 +17,15 @@ Direct links to access the `sv_str_verz` data table of Strassennamenverzeichnis:
 
 Strassennamenverzeichnis is published under [Creative Commons CCZero](https://opendefinition.org/licenses/cc-zero/) Licence
 
-Out of the 2'542 official Streetnames of Zurich we identified around 600 Streets named after a person. A list of these street names will be added soon.
+Out of the 2'542 official Streetnames of Zurich we identified around 600 Streets named after a person. A list of these streetnames will be added soon.
+
+## Historisches Lexikon der Schweiz (HLS)
+More about [HLS on Wikipedia](https://de.wikipedia.org/wiki/Historisches_Lexikon_der_Schweiz).
+
+[HLS](https://hls-dhs-dss.ch) is published under [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). See also Nutzungsbedingungen of HLS: [Urheberrechte und Verwendung der HLS-Inhalte](https://hls-dhs-dss.ch/de/about/usage#HUrheberrechteundVerwendungderHLS-Inhalte)
+
+You may use HLS to add Information on Wikidata / Wikipedia and even create a Wikipedia-article entirely based on an HLS-article. 
+:warning: If you do so, Cite all Informations! See section on How To.
 
 
 # How to
