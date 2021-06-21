@@ -7,7 +7,7 @@ return [
     'relationId' => 1682248,
 
     // Languages in which you want to extract Wiki informations
-    'languages' => ['en'],
+    'languages' => ['en','de'],
 
     // Exclude datas from beeing extracted. Usefull to exclude streets at the edge of the city for example
     'exclude' => [
