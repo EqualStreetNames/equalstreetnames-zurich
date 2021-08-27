@@ -2,6 +2,7 @@ name,source,gender,wikidata,type
 Bahnhofplatz,wikidata,,Q224494,way
 Felix-und-Regula-Platz,wikidata,,Q114723;Q27322838;Q27323313,way
 Idaplatz,wikidata,,Q644599,way
+Lunastrasse,wikidata,,Q1235172,way
 Maneggbrücke,wikidata,,Q691236,way
 Rathausbrücke,wikidata,,Q9315546,way
 Sechseläutenplatz,wikidata,,Q520500,relation
@@ -644,6 +645,7 @@ Gamperstrasse,,,,relation
 Gämsenstrasse,,,,way
 Gänziloobrücke,,,,way
 Gänzilooweg,,,,way
+"Garten der Kunst",,,,way
 Gartenhofstrasse,,,,relation+way
 Gartenstrasse,,,,way
 Gartenweg,,,,way
@@ -680,7 +682,6 @@ Germaniastrasse,,,,way
 Geroldrampe,,,,way
 Geroldstrasse,,,,way
 Gerstenstrasse,,,,way
-Gertrudstrasse,,,,way
 Gessnerallee,,,,way
 Gessnerbrücke,,,,way
 Gfellstrasse,,,,way
@@ -854,7 +855,6 @@ Hegibachplatz,,,,way
 Hegibachstrasse,,,,way
 Hegnauweg,,,,way
 Heideggerweg,,,,way
-Heidi-Abel-Weg,,,,way
 Heidwiesen,,,,way
 Heilighüsli,,,,way
 Heimatstrasse,,,,way
@@ -865,7 +865,6 @@ Heinrich-Wolff-Strasse,,,,way
 Heinrichstrasse,,,,way
 Heiristeg,,,,way
 Heizenholz,,,,way
-Helen-Keller-Strasse,,,,way
 Helenastrasse,,,,way
 Heliosstrasse,,,,way
 Hellmutstrasse,,,,relation
@@ -1000,7 +999,6 @@ Hüttenrainstrasse,,,,way
 Huttensteig,,,,way
 Huttenstrasse,,,,way
 Hüttisstrasse,,,,way
-Ida-Bindschedler-Strasse,,,,way
 Idastrasse,,,,way
 Ilanzhofweg,,,,way
 Ilgenstrasse,,,,way
@@ -1135,7 +1133,6 @@ Käshaldenstrasse,,,,way
 Käshaldenweg,,,,way
 Kasinostrasse,,,,way
 Kaspar-Winkler-Weg,,,,way
-Katharinenweg,,,,way
 Katzenbachstrasse,,,,way
 Katzenrütifussweg,,,,way
 Katzenschwanzstrasse,,,,way
@@ -1371,7 +1368,6 @@ Luegete,,,,way
 Luegislandstrasse,,,,way
 Luggwegstrasse,,,,way
 Luisenstrasse,,,,way
-Lunastrasse,,,,way
 Lureiweg,,,,way
 Lutherstrasse,,,,relation
 Lybensteinweg,,,,way
@@ -2207,6 +2203,7 @@ Utoplatz,,,,way
 Utoquai,,,,way
 Varlinweg,,,,way
 Veilchenstrasse,,,,way
+Velotunnel,,,,way
 Venusstrasse,,,,way
 Verena-Conzett-Strasse,,,,way
 Verenastrasse,,,,way
