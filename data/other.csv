@@ -1,9 +1,15 @@
 name,source,gender,wikidata,type
 Bahnhofplatz,wikidata,,Q224494,way
 Felix-und-Regula-Platz,wikidata,,Q114723;Q27322838;Q27323313,way
+Heliosstrasse,wikidata,,Q134270,way
 Idaplatz,wikidata,,Q644599,way
+Jupitersteig,wikidata,,Q4649,way
+Jupiterstrasse,wikidata,,Q4649,way
 Lunastrasse,wikidata,,Q1235172,way
 Maneggbrücke,wikidata,,Q691236,way
+Marsstrasse,wikidata,,Q112,way
+Merkurstrasse,wikidata,,Q1150,way
+Minervastrasse,wikidata,,Q126916,way
 Rathausbrücke,wikidata,,Q9315546,way
 Sechseläutenplatz,wikidata,,Q520500,relation
 Aargauerstrasse,,,,way
@@ -864,7 +870,6 @@ Heinrichstrasse,,,,way
 Heiristeg,,,,way
 Heizenholz,,,,way
 Helenastrasse,,,,way
-Heliosstrasse,,,,way
 Hellmutstrasse,,,,relation
 Hellrainweg,,,,way
 Helvetiaplatz,,,,way
@@ -913,13 +918,13 @@ Hirzenbachstrasse,,,,way
 Hirzenbachweg,,,,way
 Hochfarbstrasse,,,,way
 Hochstrasse,,,,way
-"Höckler-Trail 1/4",,,,way
-"Höckler-Trail 2/4",,,,way
-"Höckler-Trail 3/4",,,,way
-"Höckler-Trail 4/4",,,,way
-"Höckler-Trail Zulaufstrecke",,,,way
 Höcklerbrücke,,,,way
 Höcklerstrasse,,,,way
+"Höcklertrail 1/4",,,,way
+"Höcklertrail 2/4",,,,way
+"Höcklertrail 3/4",,,,way
+"Höcklertrail 4/4",,,,way
+"Höcklertrail Zulaufstrecke",,,,way
 Höcklerweg,,,,way
 Hofackerstrasse,,,,way
 Hoffeld,,,,way
@@ -1094,8 +1099,6 @@ Juliastrasse,,,,way
 Jungholzstrasse,,,,way
 Jungholzweg,,,,way
 Jungstrasse,,,,way
-Jupitersteig,,,,way
-Jupiterstrasse,,,,way
 Käferholzstrasse,,,,way
 Kalandergasse,,,,way
 Kalanderplatz,,,,way
@@ -1277,7 +1280,6 @@ Laubiweg,,,,way
 Läufebachweg,,,,way
 Läufeweg,,,,way
 Laufferweg,,,,way
-Laura-Hezner-Weg,,,,way
 Laurenzgasse,,,,way
 Lavaterstrasse,,,,way
 Lavendelweg,,,,way
@@ -1398,7 +1400,6 @@ Marktgasse,,,,way
 "Marktplatz Oerlikon",,,,way
 Markusstrasse,,,,way
 Marmorgasse,,,,relation
-Marsstrasse,,,,way
 Marstallweg,,,,way
 Martinstrasse,,,,way
 Maschinenstrasse,,,,way
@@ -1424,7 +1425,6 @@ Meiliweg,,,,way
 Meinrad-Lienert-Strasse,,,,way
 Meinradstrasse,,,,way
 Meisenweg,,,,way
-Merkurstrasse,,,,way
 Metzgergasse,,,,way
 Metzgerwegli,,,,way
 Micafilstrasse,,,,way
@@ -1433,7 +1433,6 @@ Michelstrasse,,,,way
 Milchbuckstrasse,,,,way
 Militärstrasse,,,,relation
 Mimosenstrasse,,,,way
-Minervastrasse,,,,way
 Mirabellenstrasse,,,,way
 Mittagweg,,,,way
 Mittelbergsteig,,,,way
@@ -1497,7 +1496,6 @@ Neeserweg,,,,way
 Negrellisteg,,,,way
 Nelkenstrasse,,,,way
 Neptunstrasse,,,,way
-Nettie-Sutro-Strasse,,,,way
 Neudorfstrasse,,,,way
 "Neue Hard",,,,way
 "Neue Winterthurerstrasse",,,,way
@@ -1559,13 +1557,11 @@ Oetlisbergweg,,,,way
 Ohmstrasse,,,,way
 Okenstrasse,,,,way
 Oleanderstrasse,,,,way
-Olgastrasse,,,,way
 Olgaweg,,,,way
 Olivengasse,,,,way
 Opfikonstrasse,,,,way
 Opfikonweg,,,,way
 Orellistrasse,,,,way
-Orelliweg,,,,way
 Oscar-Bonomo-Weg,,,,way
 Oskar-Bider-Strasse,,,,way
 Ostbühlstrasse,,,,way
