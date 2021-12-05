@@ -113,8 +113,13 @@ Adding Information from the HLS to a Statement
 
 ### Wikipedia article
 
+If there is no existing Wikipedia Articel, the "Historische Lexikon der Schweiz (HLS)" alows to copy there complete Inofmration to Wikipedia. See: [Nutzungshinweise](https://hls-dhs-dss.ch/de/about/usage)
 
 ### :warning: Declare Sources on Wikipedia :warning:
+
+If you add Information to Wikipedia, don't forget to cite your source.
+* If you create an Article completly baed on HLS add `{{HLS-Text|202356100}}` or even better `{{HLS-Text|Artikel=026515/2011-12-28|Version=190573009|Autor=Stefanie Spirig-Bülte}}` according [Vorlage:HLS-Text](https://de.wikipedia.org/wiki/Vorlage:HLS-Text)
+* If only some Texts are form HLS, add a Weblink according [Vorlage:HLS](https://de.wikipedia.org/wiki/Vorlage:HLS)
 
 
 ## Wikidata ID to Openstreetmap
@@ -128,6 +133,6 @@ If there also exists an article on Wikipedia, even better! Use
 
 
 # ToDo
-- [ ] The official Strassenverzeichnis lists 2'542 named streets in Zürich. Equalstreetnames mentiones 2'472 named Streets. Why is there a difference?
+- [x] The official Strassenverzeichnis lists 2'542 named streets in Zürich. Equalstreetnames mentiones 2'472 named Streets. Why is there a difference?
 - [ ] List of all ~600 Streetnames on Github.
-- [ ] Ask [frauenstadtrundgangzuerich.ch](www.frauenstadtrundgangzuerich.ch) to use Videos of [Digital Stadtrundgänge](https://www.frauenstadtrundgangzuerich.ch/digitale-rundg%C3%A4nge) on Wikimedia
+- [x] Ask [frauenstadtrundgangzuerich.ch](www.frauenstadtrundgangzuerich.ch) to use Videos of [Digital Stadtrundgänge](https://www.frauenstadtrundgangzuerich.ch/digitale-rundg%C3%A4nge) on Wikimedia
