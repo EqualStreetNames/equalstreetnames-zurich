@@ -1,5 +1,7 @@
 # :blue_heart: Welcome to EqualStreetNames Zurich :blue_heart:
-:blue_heart: :white_circle: :blue_heart: :white_circle: :blue_heart: Sali bi EqualStreetNames Züri :blue_heart: :white_circle: :blue_heart: :white_circle: :blue_heart:
+:blue_heart: :white_heart: :blue_heart: :white_heart: :blue_heart: Sali bi EqualStreetNames Züri :blue_heart: :white_heart: :blue_heart: :white_heart: :blue_heart:
+
+Follow us on Twitter: https://twitter.com/equalsnzueri
 
 We use this readme to document all used data and to provide a guideline on how to link this data for equalstreetnames
 
