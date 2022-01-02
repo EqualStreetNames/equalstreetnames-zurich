@@ -16,6 +16,7 @@ Heliosstrasse,wikidata,,Q134270,way
 Hildastrasse,wikidata,,Q2639538,way
 Idaplatz,wikidata,,Q644599,way
 Idastrasse,wikidata,,Q644599,way
+Joseph-von-Deschwanden-Platz,wikidata,,Q27570785,way
 Juliastrasse,wikidata,,Q2737173,way
 Jupitersteig,wikidata,,Q4649,way
 Jupiterstrasse,wikidata,,Q4649,way
@@ -225,7 +226,6 @@ Bellevueplatz,,,,relation
 Bellikersteig,,,,way
 Belsitostrasse,,,,way
 Benedikt-Fontana-Weg,,,,way
-Beno-Eckmann-Weg,,,,way
 Bergacker,,,,way
 Bergellersteig,,,,way
 Bergellerstrasse,,,,way
@@ -362,7 +362,6 @@ Bühlwiesenstrasse,,,,way
 Buhnrain,,,,way
 Buhnstrasse,,,,way
 Bülachstrasse,,,,way
-Bullingerplatz,wikidata,,,way
 Bullingerstrasse,,,,way
 Bungertweg,,,,way
 Burenweg,,,,way
@@ -457,7 +456,6 @@ Edelweissstrasse,,,,way
 Edenstrasse,,,,way
 Edisonstrasse,,,,way
 Eduard-Imhof-Strasse,,,,way
-Eduard-Stiefel-Weg,,,,way
 Effingerstrasse,,,,way
 Eggbühlstrasse,,,,way
 Eggenschwilerweg,,,,way
@@ -481,7 +479,6 @@ Eigenheimstrasse,,,,way
 Eigenstrasse,,,,way
 Eigenwasenstrasse,,,,way
 Einfangstrasse,,,,way
-Einsteinbrücke,,,,way
 Eisenbahnerstrasse,,,,way
 Eisengasse,,,,way
 Eisfeldstrasse,,,,way
@@ -608,7 +605,6 @@ Frankentalerstrasse,,,,way
 Frankentalerweg,,,,way
 Franklinplatz,,,,way
 Franklinstrasse,,,,way
-Franz-Reuleaux-Weg,,,,way
 Franzosenweg,,,,way
 Frauenbrünnelistrasse,,,,way
 Frauenklinikstrasse,,,,way
@@ -788,7 +784,6 @@ Guggerweg,,,,way
 Gugolzstrasse,,,,way
 Gujerstrasse,,,,way
 Guldinerweg,,,,way
-Gustave-Naville-Weg,,,,way
 Gutenbergstrasse,,,,way
 Guthirtstrasse,,,,way
 Gutstrasse,,,,way
@@ -1086,7 +1081,6 @@ Irringersteig,,,,way
 Islerstrasse,,,,way
 Jacob-Burckhardt-Strasse,,,,way
 Jägergasse,,,,way
-Jakob-Ackeret-Weg,,,,way
 Jakob-Wegmann-Weg,,,,way
 James-Joyce-Strasse,,,,way
 Jenatschstrasse,,,,way
@@ -1548,7 +1542,6 @@ Orellistrasse,,,,way
 Oscar-Bonomo-Weg,,,,way
 Oskar-Bider-Strasse,,,,way
 Ostbühlstrasse,,,,way
-Othmar-Ammann-Weg,,,,way
 Ottenbergstrasse,,,,way
 Ottenbühlweg,,,,way
 Ottenweg,,,,way
@@ -1557,7 +1550,6 @@ Ottikerweg,,,,way
 Ottilienstrasse,,,,way
 Otto-Jaag-Strasse,,,,way
 Otto-Schütz-Weg,,,,way
-Otto-Stern-Weg,,,,way
 Ottostrasse,,,,way
 Owenweg,,,,way
 Panoramaweg,,,,way
@@ -1572,7 +1564,6 @@ Passage,,,,way
 "Passage Löwenstrasse",,,,relation
 "Passage Sihlquai",,,,way
 "Passerelle Gleisbogen",,,,way
-Paul-Feyerabend-Hof,,,,way
 Paul-Grüninger-Weg,,,,way
 Paul-Pflüger-Strasse,,,,way
 Paul-Trautvetter-Weg,,,,way
@@ -1580,7 +1571,6 @@ Paulstrasse,,,,way
 Pelikanplatz,,,,way
 Pelikanstrasse,,,,way
 Pestalozzistrasse,,,,way
-Peter-Debye-Weg,,,,way
 Peterstobelstrasse,,,,way
 Peterstobelweg,,,,way
 Pfadiweg,,,,way
@@ -1694,7 +1684,6 @@ Rislingstrasse,,,,way
 Risweg,,,,way
 Ritterstrasse,,,,way
 Robert-Durrer-Weg,,,,way
-Robert-Gnehm-Platz,,,,way
 Robert-Maillart-Strasse,,,,way
 Robert-Seidel-Hof,,,,way
 Rodungsweg,,,,way
@@ -1994,7 +1983,6 @@ Stationsstrasse,,,,way
 Staubstrasse,,,,way
 Staudenbühlweg,,,,way
 Staudenweg,,,,way
-Stefano-Franscini-Platz,,,,way
 Steffenstrasse,,,,way
 Stegengasse,,,,way
 Steigholzweg,,,,way
@@ -2149,7 +2137,6 @@ Velotunnel,,,,way
 Verrucanoweg,,,,way
 Vetterliweg,,,,way
 Viaduktstrasse,,,,way
-Vladimir-Prelog-Weg,,,,way
 Vogelsangstrasse,,,,way
 Vogtsrain,,,,way
 Volkmarstrasse,,,,way
@@ -2206,7 +2193,6 @@ Wegackerstrasse,,,,way
 Weggengasse,,,,way
 Wehntalerstrasse,,,,way
 Wehrenbachhalde,,,,way
-Wehrlisteig,,,,way
 Weibelackerstrasse,,,,way
 Weibelackerweg,,,,way
 Weidmannstrasse,,,,way
@@ -2271,7 +2257,6 @@ Witikonerstrasse,,,,way
 Wohllebgasse,,,,way
 Wolfbachstrasse,,,,way
 Wolfbachtobelweg,,,,way
-Wolfgang-Pauli-Strasse,,,,way
 Wolfgrimweg,,,,way
 Wolframplatz,,,,way
 Wolfswinkel,,,,way
