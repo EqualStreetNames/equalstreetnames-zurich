@@ -28,7 +28,6 @@ Heliosstrasse,wikidata,,Q134270,way
 Hildastrasse,wikidata,,Q2639538,way
 Idaplatz,wikidata,,Q644599,way
 Idastrasse,wikidata,,Q644599,way
-Joseph-von-Deschwanden-Platz,wikidata,,Q27570785,way
 Juliastrasse,wikidata,,Q2737173,way
 Jupitersteig,wikidata,,Q4649,way
 Jupiterstrasse,wikidata,,Q4649,way
@@ -50,6 +49,7 @@ Merkurstrasse,wikidata,,Q1150,way
 Minervastrasse,wikidata,,Q126916,way
 Mirabellenstrasse,wikidata,,Q149741,way
 Monikastrasse,wikidata,,Q14013933,way
+Mötteliweg,wikidata,,Q29343429,way
 Neptunstrasse,wikidata,,Q3954,way
 Rathausbrücke,wikidata,,Q9315546,way
 Säntisstrasse,wikidata,,Q15224,way
@@ -103,6 +103,7 @@ Alemannensteig,,,,way
 Algierstrasse,,,,way
 Allenmoosstrasse,,,,way
 Allenwiesliweg,,,,way
+Allmendbrücke,,,,way
 Allmendsteg,,,,way
 Allmendstrasse,,,,way
 Allmendtrail,,,,way
@@ -177,6 +178,7 @@ Ausserdorfstrasse,,,,way
 Ausstellungsstrasse,,,,way
 Austrasse,,,,way
 Auwiesenstrasse,,,,way
+Auwiesenweg,,,,way
 Auzelg,,,,way
 Azurstrasse,,,,way
 Baalweg,,,,way
@@ -224,6 +226,7 @@ Bauherrenstrasse,,,,way
 Bäulisteig,,,,way
 Bäulistrasse,,,,way
 Baumackerstrasse,,,,way
+Baumgartnerstrasse,,,,way
 Baumgasse,,,,way
 Baumhaldenstrasse,,,,way
 Baumschulweg,,,,way
@@ -257,6 +260,7 @@ Berneggweg,,,,way
 Berninaplatz,,,,way
 Berninastrasse,,,,way
 Besenrainstrasse,,,,way
+Besenrainweg,,,,way
 Beustweg,,,,way
 Biberlinsburgweg,,,,way
 Biberlinstrasse,,,,way
@@ -323,6 +327,7 @@ Bremgartnerstrasse,,,,way
 Brinerstrasse,,,,way
 Bristenstrasse,,,,way
 Brombeeriweg,,,,way
+Brotgasse,,,,way
 Bruchstrasse,,,,way
 Brüderhofweg,,,,way
 Bruderholzweg,,,,way
@@ -332,6 +337,8 @@ Brüelbachweg,,,,way
 Bruggerweg,,,,way
 Brugghölzliweg,,,,way
 Brüggliäcker,,,,way
+Brühlbachweg,,,,way
+Brühlweg,,,,way
 Brunaubrücke,,,,way
 Brunaustrasse,,,,way
 Bruneggweg,,,,way
@@ -371,6 +378,7 @@ Bühlstrasse,,,,way
 Bühlwiesenstrasse,,,,way
 Buhnrain,,,,way
 Buhnstrasse,,,,way
+Bülachhof,,,,way
 Bülachstrasse,,,,way
 Bullingerstrasse,,,,way
 Bungertweg,,,,way
@@ -396,6 +404,7 @@ Chätsch-Weg,,,,way
 Chelleweg,,,,way
 Chillesteig,,,,way
 Chorgasse,,,,way
+Chorherrenweg,,,,way
 Chriesiweg,,,,way
 Chüpliweg,,,,way
 Chutzenstrasse,,,,way
@@ -412,12 +421,15 @@ Dahliastrasse,,,,way
 Damhirschweg,,,,way
 Dammsteg,,,,way
 Dammstrasse,,,,way
+Dammweg,,,,way
 Dangelstrasse,,,,way
 Dangelweg,,,,way
+Degenriedstrasse,,,,way
 Delphinstrasse,,,,way
 Dennlerstrasse,,,,way
 Denzlerstrasse,,,,way
 Denzlerweg,,,,way
+Depotweg,,,,way
 Diabasweg,,,,way
 Dialogweg,,,,way
 Dianastrasse,,,,way
@@ -468,6 +480,7 @@ Eichacker,,,,way
 Eichbühlstrasse,,,,way
 Eichenweg,,,,way
 Eichhalde,,,,way
+Eichhaldenweg,,,,way
 Eichholzweg,,,,way
 Eichhörnliweg,,,,way
 Eichrainstrasse,,,,way
@@ -541,6 +554,7 @@ Falkenweg,,,,way
 "Fallätsche Traverse",,,,way
 Färberstrasse,,,,way
 Farbhofstrasse,,,,way
+Farbhofweg,,,,way
 Farenweg,,,,way
 Federnstrasse,,,,way
 Fehrenstrasse,,,,way
@@ -553,13 +567,16 @@ Feldgütliweg,,,,relation
 Feldstrasse,,,,relation
 Fellenbergstrasse,,,,way
 Fellenbergweg,,,,way
+Felsberg,,,,way
 Felsenkellerweg,,,,way
 Felsenrainstrasse,,,,way
 Felsenrainweg,,,,way
 Felsenstrasse,,,,way
 Fennergasse,,,,way
+Fernsehstrasse,,,,way
 Feuersalamanderweg,,,,way
 Feuerweg,,,,way
+Feuerwehrzufahrt,,,,way
 Feusisbergli,,,,way
 Fichtenstrasse,,,,way
 Finkenrain,,,,way
@@ -608,7 +625,8 @@ Freigutstrasse,,,,way
 Freihofstrasse,,,,way
 Freilagerplatz,,,,way
 Freilagerstrasse,,,,relation+way
-Freischützgasse,,,,relation
+Freilagerweg,,,,way
+Freischützgasse,,,,relation+way
 Freudenbergstrasse,,,,way
 Freudwilerweg,,,,way
 Freyastrasse,,,,relation
@@ -662,6 +680,7 @@ Geerlibuchweg,,,,way
 Gehrenholz,,,,way
 Gehrenholzstrasse,,,,way
 Geigergasse,,,,way
+Geissbergstrasse,,,,way
 Geissbergweg,,,,way
 Gemeindestrasse,,,,way
 Genossenschaftsstrasse,,,,way
@@ -679,6 +698,7 @@ Gessnerbrücke,,,,way
 Gfellstrasse,,,,way
 Giacomettiweg,,,,way
 Giblenstrasse,,,,way
+Giblenweg,,,,way
 Giebeleich,,,,way
 Giessereistrasse,,,,relation
 Giesshübelstrasse,,,,way
@@ -707,6 +727,7 @@ Glockengasse,,,,way
 Gloriasteig,,,,way
 Gloriastrasse,,,,way
 Gmeimeriweg,,,,way
+Goethestrasse,,,,way
 Goetzstrasse,,,,way
 Goldackerweg,,,,way
 Goldauerstrasse,,,,way
@@ -793,6 +814,7 @@ Hanfrose,,,,way
 Hangelstrasse,,,,way
 Hanslinweg,,,,way
 Hardaustrasse,,,,way
+Hardauweg,,,,way
 Hardbrücke,,,,way
 Hardeggsteg,,,,way
 Hardeggstrasse,,,,way
@@ -812,6 +834,7 @@ Haselmausweg,,,,way
 Haselweg,,,,way
 Hasenrain,,,,way
 Haslerstrasse,,,,way
+Haspelstrasse,,,,way
 Hätzlergasse,,,,way
 Hauerweg,,,,way
 Hauhölzli,,,,way
@@ -822,6 +845,8 @@ Hausäcker,,,,way
 Hauserstrasse,,,,way
 Hauswiesenstrasse,,,,way
 Hauswiesenweg,,,,way
+"Havas Platz 1",,,,way
+"Havas Platz 2",,,,way
 Hechtplatz,,,,way
 Hedwigsteig,,,,way
 Hedwigstrasse,,,,way
@@ -834,6 +859,7 @@ Hegibachplatz,,,,way
 Hegibachstrasse,,,,way
 Hegnauweg,,,,way
 Heideggerweg,,,,way
+Heidegraben,,,,way
 Heidwiesen,,,,way
 Heilighüsli,,,,way
 Heimatstrasse,,,,way
@@ -841,7 +867,7 @@ Heimstrasse,,,,way
 Heinrichstrasse,,,,way
 Heiristeg,,,,way
 Heizenholz,,,,way
-Hellmutstrasse,,,,relation
+Hellmutstrasse,,,,relation+way
 Hellrainweg,,,,way
 Helvetiaplatz,,,,way
 Herbartstrasse,,,,relation
@@ -917,6 +943,7 @@ Höhenweg,,,,way
 Hohlstrasse,,,,relation+way
 Hohmoos,,,,way
 Holbeinstrasse,,,,way
+Holbrigstrasse,,,,way
 Holderbachweg,,,,way
 Holunderweg,,,,way
 Holzgasse,,,,way
@@ -949,6 +976,7 @@ Hubenstrasse,,,,way
 Huberholzweg,,,,way
 Huberwiesenstrasse,,,,way
 Huebweg,,,,way
+Hufgasse,,,,way
 Hügelstrasse,,,,way
 Hugostrasse,,,,way
 Hungerbergstrasse,,,,way
@@ -982,6 +1010,7 @@ Ilgenstrasse,,,,way
 "Im Hagacker",,,,way
 "Im Hagenbrünneli",,,,way
 "Im Hau",,,,way
+"Im Hegi",,,,way
 "Im Heimgärtli",,,,way
 "Im Herrenhölzli",,,,way
 "Im Heuried",,,,way
@@ -1014,6 +1043,7 @@ Ilgenstrasse,,,,way
 "Im Tiergarten",,,,way
 "Im Trichtisal",,,,way
 "Im Trumeter",,,,way
+"Im Waidegg",,,,way
 "Im Walder",,,,way
 "Im Wiesenbeetli",,,,way
 "Im Wingert",,,,way
@@ -1047,10 +1077,13 @@ Irringersteig,,,,way
 Islerstrasse,,,,way
 Jägergasse,,,,way
 Jakob-Wegmann-Weg,,,,way
+Jasminweg,,,,way
+Johannastrasse,,,,way
 Johannesgasse,,,,way
 Josefstrasse,,,,way
 Jucheggstrasse,,,,way
 Juchstrasse,,,,way
+Jungholzhof,,,,way
 Jungholzstrasse,,,,way
 Jungholzweg,,,,way
 Jungstrasse,,,,way
@@ -1086,6 +1119,7 @@ Käshaldenstrasse,,,,way
 Käshaldenweg,,,,way
 Kasinostrasse,,,,way
 Katzenbachstrasse,,,,way
+Katzenbachweg,,,,way
 Katzenrütifussweg,,,,way
 Katzenschwanzstrasse,,,,way
 Katzenschwanzweg,,,,way
@@ -1151,6 +1185,7 @@ Konkordiastrasse,,,,way
 Konradstrasse,,,,way
 Kopfweidenplatz,,,,way
 Kopfweidenweg,,,,way
+Kornamtsweg,,,,way
 Korneliusstrasse,,,,way
 Körnerstrasse,,,,relation
 Kornhausbrücke,,,,way
@@ -1176,6 +1211,7 @@ Krokusweg,,,,way
 Kronenstrasse,,,,way
 Krönleinstrasse,,,,way
 Kronwiesenstrasse,,,,way
+Kronwiesenweg,,,,way
 Kruggasse,,,,way
 Krummweg,,,,way
 Kugelfangweg,,,,way
@@ -1203,6 +1239,7 @@ Lachenacker,,,,way
 Lachenzelgstrasse,,,,way
 Lägernstrasse,,,,way
 Lagerstrasse,,,,relation+way
+Lamprechtweg,,,,way
 Landenbergstrasse,,,,way
 Landhusweg,,,,way
 Landoltstrasse,,,,way
@@ -1267,6 +1304,7 @@ Leuengasse,,,,way
 Leuenplatz,,,,way
 Leutholdstrasse,,,,way
 Leutschenbachstrasse,,,,way
+Lichtstrasse,,,,way
 Liebensteinstrasse,,,,way
 Liebiseggweg,,,,way
 Liebwiesweg,,,,way
@@ -1300,6 +1338,7 @@ Loorentorweg,,,,way
 Löwenplatz,,,,way
 Löwensteg,,,,way
 Löwenstrasse,,,,way
+Luchsweg,,,,way
 Luchswiesenstrasse,,,,way
 Luchswiesenweg,,,,way
 Luckenholzweg,,,,way
@@ -1307,6 +1346,7 @@ Luegete,,,,way
 Luegislandstrasse,,,,way
 Luggwegstrasse,,,,way
 Luisenstrasse,,,,way
+Lupinenweg,,,,way
 Lureiweg,,,,way
 Lutherstrasse,,,,relation
 Lybensteinweg,,,,way
@@ -1359,6 +1399,7 @@ Metzgerwegli,,,,way
 Micafilstrasse,,,,way
 Michelstrasse,,,,way
 Milchbuckstrasse,,,,way
+Militärbrücke,,,,way
 Militärstrasse,,,,relation
 Mimosenstrasse,,,,way
 Mittagweg,,,,way
@@ -1436,6 +1477,7 @@ Nidelbadstrasse,,,,way
 Niederdorfstrasse,,,,way
 Niederhofenrain,,,,way
 Nietengasse,,,,relation
+Niklausstrasse,,,,way
 Norastrasse,,,,way
 Nordbrücke,,,,way
 Nordheimstrasse,,,,way
@@ -1451,6 +1493,7 @@ Nussbaumstrasse,,,,way
 Nussgasse,,,,way
 "Ober Betentalweg",,,,way
 Oberdorfstrasse,,,,way
+"Obere Bläsistrasse",,,,way
 "Obere Waidstrasse",,,,way
 "Obere Weiherstrasse",,,,way
 "Obere Zäune",,,,way
@@ -1460,6 +1503,7 @@ Oberdorfstrasse,,,,way
 "Oberer Heuelsteig",,,,way
 "Oberer Kalberhauweg",,,,way
 "Oberer Selnauweg",,,,way
+"Oberes Hohmoos",,,,way
 Oberholzstrasse,,,,way
 Oberleestrasse,,,,way
 Oberscheunenweg,,,,way
@@ -1468,6 +1512,7 @@ Obmannamtsgasse,,,,way
 Obstgartensteig,,,,way
 Obstgartenstrasse,,,,way
 Obsthaldenstrasse,,,,way
+Obsthaldenweg,,,,way
 Oerlikonerstrasse,,,,way
 Oetenbacherholz,,,,way
 Oetenbacherholzstrasse,,,,way
@@ -1481,6 +1526,7 @@ Olivengasse,,,,way
 Opfikonstrasse,,,,way
 Opfikonweg,,,,way
 Ostbühlstrasse,,,,way
+Othmarstrasse,,,,way
 Ottenbergstrasse,,,,way
 Ottenbühlweg,,,,way
 Ottenweg,,,,way
@@ -1520,6 +1566,7 @@ Pflaumenweg,,,,way
 Pflugstrasse,,,,way
 Phönixweg,,,,way
 Physikstrasse,,,,way
+Piccoloweg,,,,way
 Pilatusstrasse,,,,way
 Pilgerweg,,,,way
 Plätschweg,,,,way
@@ -1533,6 +1580,7 @@ Polyterrasse,,,,way
 Postbrücke,,,,way
 Poststrasse,,,,way
 Predigergasse,,,,way
+Predigerplatz,,,,way
 Preyergasse,,,,way
 Primelstrasse,,,,way
 Probsteistrasse,,,,way
@@ -1569,6 +1617,7 @@ Rebenweg,,,,way
 Rebgasse,,,,relation
 Rebhaldenstrasse,,,,way
 Rebhügelstrasse,,,,relation
+Rebhüsliweg,,,,way
 Rebstockweg,,,,way
 Reckenholzstrasse,,,,way
 Reckenholzweg,,,,way
@@ -1582,15 +1631,18 @@ Rehgässchen,,,,way
 Reinacherstrasse,,,,way
 Reishauerstrasse,,,,way
 Reitergasse,,,,relation
+Reitgasse,,,,way
 Reitweg,,,,way
 Rellstabstrasse,,,,way
 Rellstabweg,,,,way
+Remisenstrasse,,,,way
 Renggersteig,,,,way
 Renggerstrasse,,,,way
 Rennweg,,,,way
 Resedastrasse,,,,way
 Reservoirweg,,,,way
 Restelbergstrasse,,,,way
+Rickenstrasse,,,,way
 Riedackerstrasse,,,,way
 Riedenhaldensteig,,,,way
 Riedenhaldenstrasse,,,,way
@@ -1696,6 +1748,7 @@ Schaffhauserstrasse,,,,relation+way
 Schafmattstrasse,,,,way
 Schafmattweg,,,,way
 Schanzackerstrasse,,,,way
+Schanzeneggstrasse,,,,way
 Schanzengasse,,,,way
 Schanzengrabenpromenade,,,,way
 Schäppistrasse,,,,way
@@ -1717,6 +1770,7 @@ Schiffbaustrasse,,,,way
 Schifflände,,,,way
 Schiffländeplatz,,,,way
 Schiffliwiesenweg,,,,way
+Schillerstrasse,,,,way
 Schimmelstrasse,,,,way
 Schindlersteig,,,,way
 Schindlerstrasse,,,,way
@@ -1733,6 +1787,7 @@ Schlugenweg,,,,way
 Schluhenweg,,,,way
 Schlüsselgasse,,,,way
 Schmelzbergstrasse,,,,way
+Schmidhofgasse,,,,way
 Schneckenmannstrasse,,,,way
 Schneebelistrasse,,,,way
 Schneebeliweg,,,,way
@@ -1771,12 +1826,14 @@ Schützenmatt,,,,way
 Schützenrain,,,,way
 Schützenrütiweg,,,,way
 Schützenstrasse,,,,way
+Schwalbenweg,,,,way
 Schwamendingenstrasse,,,,way
 Schwamendingerplatz,,,,way
 Schwandenacker,,,,way
 Schwandenholzstrasse,,,,relation+way
 Schwandenwiesen,,,,way
 Schwanengasse,,,,way
+Schwarzbächlistrasse,,,,way
 Schwarzenbachweg,,,,way
 Schweighofstrasse,,,,relation+way
 Schweigmatt,,,,way
@@ -1817,6 +1874,7 @@ Siegfriedstrasse,,,,way
 Siewerdtstrasse,,,,way
 Signaustrasse,,,,way
 Sihlamtsstrasse,,,,relation
+Sihlberg,,,,way
 Sihlfeldstrasse,,,,way
 Sihlhallenstrasse,,,,relation
 Sihlhochstrasse,,,,way
@@ -1859,9 +1917,11 @@ Spatzenweg,,,,way
 Spechtweg,,,,way
 Speerstrasse,,,,way
 Speicherweg,,,,way
+Spelteriniweg,,,,way
 Sperletweg,,,,way
 Spiegelgasse,,,,way
 Spiegelhofstrasse,,,,way
+Spielweg,,,,way
 Spielwiesenstrasse,,,,way
 Spillmannweg,,,,way
 Spindelstrasse,,,,way
@@ -1897,8 +1957,10 @@ Stapferstrasse,,,,way
 Starengasse,,,,way
 Stationsstrasse,,,,way
 Staubstrasse,,,,way
+Staudenbühlstrasse,,,,way
 Staudenbühlweg,,,,way
 Staudenweg,,,,way
+Stauffacherstrasse,,,,relation
 Steffenstrasse,,,,way
 Stegengasse,,,,way
 Steigholzweg,,,,way
@@ -1952,6 +2014,8 @@ Sumatrasteig,,,,way
 Sumatrastrasse,,,,way
 "Sunnige Hof",,,,way
 Susenbergstrasse,,,,way
+Süsslerenstrasse,,,,way
+Süsslerenweg,,,,way
 Synagogengasse,,,,way
 Szondiweg,,,,way
 Talacker,,,,way
@@ -1977,6 +2041,7 @@ Thermengasse,,,,way
 Thomasweg,,,,way
 Thujastrasse,,,,way
 Thurwiesenstrasse,,,,way
+Tiefenhöfe,,,,way
 Tischlerweg,,,,way
 Titlisstrasse,,,,way
 Tobeleggstrasse,,,,way
@@ -1993,6 +2058,7 @@ Torgasse,,,,way
 Traktorenstrasse,,,,way
 Tramstrasse,,,,way
 Traubenstrasse,,,,way
+Traugottstrasse,,,,way
 Treichlerstrasse,,,,way
 "Treppe Tiefgarage",,,,way
 "Treppe Tiegarage",,,,way
@@ -2006,6 +2072,7 @@ Triemlitrail,,,,way
 Trittligasse,,,,way
 Trottenstrasse,,,,way
 Trottweg,,,,way
+Tuchmacherstrasse,,,,way
 Tüffenwies,,,,way
 Tuggenerstrasse,,,,way
 Tuggenerweg,,,,way
@@ -2046,6 +2113,7 @@ Utobrücke,,,,way
 Utoplatz,,,,way
 Utoquai,,,,way
 Varlinweg,,,,way
+Vega-Strasse,,,,way
 Veilchenstrasse,,,,way
 Velotunnel,,,,way
 Verrucanoweg,,,,way
@@ -2072,6 +2140,7 @@ Waidmattweg,,,,way
 Waidstrasse,,,,way
 Waisenhausstrasse,,,,way
 Walchebrücke,,,,way
+Walcheplatz,,,,way
 Walchestrasse,,,,way
 Walchetor,,,,way
 Walchetreppe,,,,way
@@ -2109,6 +2178,7 @@ Wehntalerstrasse,,,,way
 Wehrenbachhalde,,,,way
 Weibelackerstrasse,,,,way
 Weibelackerweg,,,,way
+Weichengasse,,,,way
 Weidmannstrasse,,,,way
 Weiherholzstrasse,,,,way
 Weihersteig,,,,way
@@ -2134,6 +2204,7 @@ Werdmühlestrasse,,,,way
 Werdplatz,,,,way
 Werdstrasse,,,,relation+way
 Werikonweg,,,,way
+Werkgasse,,,,way
 Wernerstrasse,,,,way
 Westbühlstrasse,,,,way
 Wetlistrasse,,,,way
@@ -2155,6 +2226,7 @@ Wildenstrasse,,,,way
 Wildenweg,,,,way
 Wildfangweg,,,,way
 Wilfriedstrasse,,,,way
+Wilhelmstrasse,,,,way
 Winkelriedstrasse,,,,way
 Winkelstrasse,,,,way
 Winkelwiese,,,,way
@@ -2187,6 +2259,8 @@ Wydenstrasse,,,,relation
 Wydlerweg,,,,way
 Wyssenbühlsteig,,,,way
 Wyssgasse,,,,relation
+Zahnradstrasse,,,,way
+Zähringerplatz,,,,way
 Zanggerweg,,,,way
 Zapfensteig,,,,way
 Zederstrasse,,,,way
@@ -2206,6 +2280,7 @@ Zentralstrasse,,,,way
 Zeppelinstrasse,,,,way
 Zeughausstrasse,,,,relation
 Zeugwartgasse,,,,way
+Zeunersteig,,,,way
 Zeunerstrasse,,,,way
 Ziegeleiweg,,,,way
 Ziegelhüttenstrasse,,,,way
@@ -2221,6 +2296,7 @@ Zollikerstrasse,,,,way
 Zollingerweg,,,,way
 Zollstrasse,,,,way
 Zooweg,,,,way
+"Zufahrt Rampe 18",,,,way
 Züghusplatz,,,,way
 "Zum Sillerblick",,,,way
 "Zur frohen Aussicht",,,,way

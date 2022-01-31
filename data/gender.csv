@@ -1,6 +1,7 @@
 name,source,gender,wikidata,type
 Agnes-Robmann-Weg,wikidata,F,Q27323047,way
 Anna-Heer-Strasse,wikidata,F,Q560826,way
+Annemarie-Schwarzenbach-Weg,wikidata,F,Q123368,way
 Anny-Klawa-Platz,wikidata,F,Q23666560,way
 Bertastrasse,wikidata,F,Q2661025,way
 Brupbacherplatz,wikidata,F,Q2063662,way
@@ -16,6 +17,7 @@ Else-Züblin-Strasse,wikidata,F,Q1333744,way
 Else-Züblin-Weg,wikidata,F,Q1333744,way
 Emilie-Kempin-Spyri-Weg,wikidata,F,Q119636,way
 Emilie-Lieberherr-Platz,wikidata,F,Q1337334,way
+Erika-Mann-Strasse,wikidata,F,Q61597,way
 Erikastrasse,wikidata,F,Q96489752,way
 Gertrudstrasse,wikidata,F,Q1515573,way
 Heidi-Abel-Weg,wikidata,F,Q121534,way
@@ -124,6 +126,7 @@ Georg-Baumberger-Weg,wikidata,M,Q1503635,way
 Georg-Kempf-Strasse,wikidata,M,Q1504971,way
 Gessnerallee,wikidata,M,Q123765,way
 Giacomettistrasse,wikidata,M,Q689411;Q671236;Q157194,way
+Gottfried-Keller-Strasse,wikidata,M,Q122370,way
 Gotthelfstrasse,wikidata,M,Q1285698,way
 Gottlieb-Kramer-Steig,wikidata,M,Q27323162,way
 Gottlieb-Kramer-Weg,wikidata,M,Q27323162,way
@@ -136,6 +139,7 @@ Hans-Behn-Eschenburg-Weg,wikidata,M,Q125079,way
 Hans-Huber-Strasse,wikidata,M,Q673938,way
 Hans-Roelli-Weg,wikidata,M,Q1421138,way
 Heimplatz,wikidata,M,Q1657449,way
+Heinrich-Bosshardt-Strasse,wikidata,M,Q27323185,way
 Heinrich-Federer-Strasse,wikidata,M,Q120908,way
 Heinrich-Gretler-Weg,wikidata,M,Q118900,way
 Heinrich-Wolff-Strasse,wikidata,M,Q27322848,way
@@ -153,6 +157,7 @@ Joachim-Hefti-Weg,wikidata,M,Q27322952,way
 Johannes-Ott-Weg,wikidata,M,Q15821476,way
 John-von-Neumann-Weg,wikidata,M,Q17455,way
 Jonas-Furrer-Strasse,wikidata,M,Q380083,way
+Joseph-von-Deschwanden-Platz,wikidata,M,Q52154868,way
 Karl-Schmid-Strasse,wikidata,M,Q1607329,way
 Karl-Stauffer-Strasse,wikidata,M,Q117489,way
 Kaspar-Winkler-Weg,wikidata,M,Q27322980,way
@@ -161,7 +166,9 @@ Konrad-Ilg-Strasse,wikidata,M,Q27323232,way
 Kurt-Früh-Weg,wikidata,M,Q1727474,way
 Kurt-Guggenheim-Strasse,wikidata,M,Q1793590,way
 Kurt-Hirschfeld-Weg,wikidata,M,Q1793662,way
+Landisstrasse,wikidata,M,Q27322858,way
 Leonhard-Ragaz-Weg,wikidata,M,Q117322,way
+Leopold-Ruzicka-Weg,wikidata,M,Q122996,way
 Louis-Braille-Strasse,wikidata,M,Q93182,way
 Louis-Conne-Weg,wikidata,M,Q1546163,way
 Max-Frisch-Platz,wikidata,M,Q115483,way
@@ -178,7 +185,9 @@ Ohmstrasse,wikidata,M,Q1585,way
 Oscar-Bonomo-Weg,wikidata,M,Q27323000,way
 Oskar-Bider-Strasse,wikidata,M,Q688419,way
 Othmar-Ammann-Weg,wikidata,M,Q115783,way
+Otto-C.-Bänninger-Weg,wikidata,M,Q15429125,way
 Otto-Jaag-Strasse,wikidata,M,Q2039366,way
+Otto-Lang-Weg,wikidata,M,Q2039709,way
 Otto-Schütz-Weg,wikidata,M,Q27323008,way
 Otto-Stern-Weg,wikidata,M,Q57072,way
 Paul-Clairmont-Strasse,wikidata,M,Q2059151,way
@@ -194,6 +203,7 @@ Richard-Kissling-Weg,wikidata,M,Q120459,way
 Richard-Wagner-Strasse,wikidata,M,Q1511,way
 Robert-Durrer-Weg,wikidata,M,Q3435010,way
 Robert-Gnehm-Platz,wikidata,M,Q2157304,way
+Robert-Gnehm-Weg,wikidata,M,Q2157304,way
 Robert-Maillart-Strasse,wikidata,M,Q123673,way
 Robert-Seidel-Hof,wikidata,M,Q120910,way
 Robert-Stephenson-Weg,wikidata,M,Q328728,way
@@ -210,9 +220,10 @@ Segantinistrasse,wikidata,M,Q379300,way
 Sigi-Feigel-Terrasse,wikidata,M,Q120289,way
 Stauffacherbrücke,wikidata,M,Q117061,way
 Stauffacherquai,wikidata,M,Q117061,way
-Stauffacherstrasse,wikidata,M,Q117061,relation+way
 Stefano-Franscini-Platz,wikidata,M,Q559604,way
+Stephan-à-Porta-Weg,wikidata,M,Q27323291,way
 Stodolastrasse,wikidata,M,Q666875,way
+Tadeus-Reichstein-Weg,wikidata,M,Q115490,way
 Tièchestrasse,wikidata,M,Q1609970,way
 Vladimir-Prelog-Weg,wikidata,M,Q83501,way
 Wasersteig,wikidata,M,Q1694523,way
