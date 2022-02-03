@@ -52,6 +52,8 @@ Example: Q119636 for [Emilie Kempin-Spyri](https://www.wikidata.org/wiki/Q119636
 8. Choose as Property: "retrieved" and as value the Date of Today eg. "13.05.2006"
 9. Click "publish"
 
+Done :muscle:
+
 # Advanced Section
 
 ## Identify Wikidata entries of a person
@@ -131,16 +133,6 @@ If there is no existing Wikipedia Articel, the "Historische Lexikon der Schweiz 
 If you add Information to Wikipedia, don't forget to cite your source.
 * If you create an Article completly baed on HLS add `{{HLS-Text|202356100}}` or even better `{{HLS-Text|Artikel=026515/2011-12-28|Version=190573009|Autor=Stefanie Spirig-Bülte}}` according [Vorlage:HLS-Text](https://de.wikipedia.org/wiki/Vorlage:HLS-Text)
 * If only some Texts are form HLS, add a Weblink according [Vorlage:HLS](https://de.wikipedia.org/wiki/Vorlage:HLS)
-
-
-## Wikidata ID to Openstreetmap
-To let the streets get coloured on equalstreetnames add the Wikidata ID of the person on [Openstreetmap](https://www.openstreetmap.org/) to the street-segment as an etymonology-Attribut.
-* `name:etymology:wikidata=Q[....]` 
-* Example: [Carl-Spitteler-Strasse](https://www.openstreetmap.org/way/15273002)
-
-If there also exists an article on Wikipedia, even better! Use
-* `name:etymology:wikipedia`
-* Example: `name:etymology:wikipedia=de:Carl Spitteler` see [Carl-Spitteler-Strasse](https://www.openstreetmap.org/way/15273002)
 
 # Data
 ## Strassenverzeichnis der Stadt Zürich
