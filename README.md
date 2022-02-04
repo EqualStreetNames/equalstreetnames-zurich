@@ -35,7 +35,7 @@ Example: [Emilie-Kempin-Spyri-Weg](https://www.wikidata.org/wiki/Q27329833)
 ## Find the Wikidata-Item of the Person
 This is the most tricky Part..
 1. Read at Column G of the [Workinglist](https://docs.google.com/spreadsheets/d/1ONbDBkYPxVkZ0lsC-Cm07OYaQsixLnNraNKnyIv4tWo/edit?usp=sharing) an try to find out more about the Person
-1. Or: search for the Street at [Strassennamen-Datenbank der Stadt Zürich](stadt-zuerich.ch/strassennamen-datenbank)
+1. Or: search for the Street at [Strassennamen-Datenbank der Stadt Zürich](https://stadt-zuerich.ch/strassennamen-datenbank)
 2. Search at [Wikidata.org](https://www.wikidata.org) for this Person.
 3. Note the Q-Number of the Person
 
