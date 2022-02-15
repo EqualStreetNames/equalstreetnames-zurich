@@ -17,6 +17,7 @@ Else-Züblin-Strasse,wikidata,F,Q1333744,way
 Else-Züblin-Weg,wikidata,F,Q1333744,way
 Emilie-Kempin-Spyri-Weg,wikidata,F,Q119636,way
 Emilie-Lieberherr-Platz,wikidata,F,Q1337334,way
+Engelstrasse,wikidata,F,Q2138725,relation
 Erika-Mann-Strasse,wikidata,F,Q61597,way
 Erikastrasse,wikidata,F,Q96489752,way
 Gertrudstrasse,wikidata,F,Q1515573,way
@@ -96,6 +97,7 @@ Bluntschlisteig,wikidata,M,Q118948,way
 Böcklinstrasse,wikidata,M,Q123071,way
 Bodmerstrasse,wikidata,M,Q115588,way
 Bolleystrasse,wikidata,M,Q1703069,way
+Brahmsstrasse,wikidata,M,Q7294,relation
 Breitingerstrasse,wikidata,M,Q124223,way
 Bruggerweg,wikidata,M,Q110834791,way
 Bubenbergstrasse,wikidata,M,Q124405,way
@@ -117,6 +119,7 @@ Corrodistrasse,wikidata,M,Q117985,way
 Cramerstrasse,wikidata,M,Q109983515,way
 Culmannstrasse,wikidata,M,Q123767,way
 David-Hess-Weg,wikidata,M,Q1174725,way
+Dienerstrasse,wikidata,M,Q110930114,relation+way
 Doktor-Faust-Gasse,wikidata,M,Q76918,way
 Dubsstrasse,wikidata,M,Q116973,way
 Dufourstrasse,wikidata,M,Q123238,way
@@ -156,6 +159,7 @@ Fröbelstrasse,wikidata,M,Q55850107,way
 Froschaugasse,wikidata,M,Q117918,way
 Gagliardiweg,wikidata,M,Q125044,way
 Gallusstrasse,wikidata,M,Q180936,way
+Gamperstrasse,wikidata,M,Q115500,relation
 Geibelstrasse,wikidata,M,Q77333,way
 Gellertstrasse,wikidata,M,Q60584,way
 General-Guisan-Quai,wikidata,M,Q123497,way
@@ -191,11 +195,14 @@ Heinrich-Federer-Strasse,wikidata,M,Q120908,way
 Heinrich-Gretler-Weg,wikidata,M,Q118900,way
 Heinrich-Wolff-Strasse,wikidata,M,Q27322848,way
 Heinrichstrasse,wikidata,M,Q1647505,way
+Herbartstrasse,wikidata,M,Q76685,relation
+Herman-Greulich-Strasse,wikidata,M,Q91174,relation
 Hertensteinstrasse,wikidata,M,Q661989,way
 Herterbrücke,wikidata,M,Q27229258,way
 Hertersteg,wikidata,M,Q27229258,way
 Herzogstrasse,wikidata,M,Q37733307,way
 Hintermeisterhof,wikidata,M,Q110861091,way
+Hirzelstrasse,wikidata,M,Q94878260,way
 Hitzigweg,wikidata,M,Q70837;Q1114730;Q16509047,way
 Hölderlinsteig,wikidata,M,Q75889,way
 Hölderlinstrasse,wikidata,M,Q75889,way
@@ -217,14 +224,17 @@ Jonas-Furrer-Strasse,wikidata,M,Q380083,way
 Josefstrasse,wikidata,M,Q110787680,way
 Joseph-von-Deschwanden-Platz,wikidata,M,Q52154868,way
 Kantstrasse,wikidata,M,Q9312,way
+Karl-Bürkli-Strasse,wikidata,M,Q1730630,relation
 Karl-Schmid-Strasse,wikidata,M,Q1607329,way
 Karl-Stauffer-Strasse,wikidata,M,Q117489,way
 Kaspar-Winkler-Weg,wikidata,M,Q27322980,way
 Kempterstrasse,wikidata,M,Q322323,way
 Kenngottweg,wikidata,M,Q465385,way
+Kernstrasse,wikidata,M,Q1303505,relation
 Kinkelstrasse,wikidata,M,Q68325,way
 Klopstockstrasse,wikidata,M,Q154367,way
 Konrad-Ilg-Strasse,wikidata,M,Q27323232,way
+Körnerstrasse,wikidata,M,Q62344,relation
 Krönleinstrasse,wikidata,M,Q117992,way
 Kurt-Früh-Weg,wikidata,M,Q1727474,way
 Kurt-Guggenheim-Strasse,wikidata,M,Q1793590,way
@@ -240,6 +250,7 @@ Lintheschergasse,wikidata,M,Q115835,way
 Linthescherhof,wikidata,M,Q115835,way
 Louis-Braille-Strasse,wikidata,M,Q93182,way
 Louis-Conne-Weg,wikidata,M,Q1546163,way
+Lutherstrasse,wikidata,M,Q9554,relation
 Massénastrasse,wikidata,M,Q242609,way
 Max-Bill-Platz,wikidata,M,Q123454,way
 Max-Frisch-Platz,wikidata,M,Q115483,way
@@ -311,11 +322,13 @@ Stäblistrasse,wikidata,M,Q19631308,way
 Staubstrasse,wikidata,M,Q110788426,way
 Stauffacherbrücke,wikidata,M,Q117061,way
 Stauffacherquai,wikidata,M,Q117061,way
+Stauffacherstrasse,wikidata,M,Q117061,relation
 Stefano-Franscini-Platz,wikidata,M,Q559604,way
 Steinbrüchelstrasse,wikidata,M,Q28976335,way
 Stephan-à-Porta-Weg,wikidata,M,Q27323291,way
 Stodolastrasse,wikidata,M,Q666875,way
 Stolzestrasse,wikidata,M,Q124806,way
+Stüssistrasse,wikidata,M,Q27322929,relation
 Szondiweg,wikidata,M,Q123330,way
 Tadeus-Reichstein-Weg,wikidata,M,Q115490,way
 Tièchestrasse,wikidata,M,Q1609970,way
@@ -333,6 +346,7 @@ Wattstrasse,wikidata,M,Q9041,way
 Weberstrasse,wikidata,M,Q110788295,way
 Wehrlisteig,wikidata,M,Q96412376,way
 Weitlingweg,wikidata,M,Q215808,way
+Wengistrasse,wikidata,M,Q1990487,relation
 Wettsteinstrasse,wikidata,M,Q90156632,way
 Wiesendangerstrasse,wikidata,M,Q110874257,way
 Wissmannstrasse,wikidata,M,Q55683815,way
@@ -346,3 +360,4 @@ Zollingerweg,wikidata,M,Q94909831,way
 Zöllystrasse,wikidata,M,Q117624,way
 Zschokkestrasse,wikidata,M,Q66207,way
 Zwingliplatz,wikidata,M,Q123034,way
+Zwinglistrasse,wikidata,M,Q123034,relation
