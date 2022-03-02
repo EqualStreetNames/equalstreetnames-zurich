@@ -10,6 +10,9 @@ Angelikaweg,wikidata,,Q12898721,way
 Apollostrasse,wikidata,,Q37340,way
 Arianestrasse,wikidata,,Q131535,way
 Arminstrasse,wikidata,,Q15715796,way
+Augustinergasse,wikidata,,Q214528,way
+Augustinerhof,wikidata,,Q214528,way
+Aurorastrasse,wikidata,,Q178831,way
 Bahnhofplatz,wikidata,,Q224494,way
 Bahnhofstrasse,wikidata,,Q224494,way
 Baslerstrasse,wikidata,,Q78,way
@@ -26,7 +29,9 @@ FIFA-Strasse,wikidata,,Q253414,way
 Felix-und-Regula-Platz,wikidata,,Q114723,way
 Flüelastrasse,wikidata,,Q372467,way
 Freyastrasse,wikidata,,Q1647325,relation
+Friedrichstrasse,wikidata,,Q14038597,way
 Genferstrasse,wikidata,,Q11917,way
+Gerhardstrasse,wikidata,,Q7996169,way
 Gotthardstrasse,wikidata,,Q688549,way
 Hamamelisweg,wikidata,,Q148463,way
 Helenastrasse,wikidata,,Q1035239,way
@@ -61,6 +66,7 @@ Monikastrasse,wikidata,,Q14013933,way
 Mötteliweg,wikidata,,Q29343429,way
 Neptunstrasse,wikidata,,Q3954,way
 Rathausbrücke,wikidata,,Q9315546,way
+Rotachstrasse,wikidata,,Q2473618,way
 Säntisstrasse,wikidata,,Q15224,way
 Schächenstrasse,wikidata,,Q690565,way
 Schaffhauserplatz,wikidata,,Q9009,way
@@ -81,6 +87,8 @@ Venusstrasse,wikidata,,Q47652,way
 Viktoriastrasse,wikidata,,Q308902,way
 Viktoriaweg,wikidata,,Q308902,way
 Weststrasse,wikidata,,Q679,relation+way
+Wilfriedstrasse,wikidata,,Q16291791,way
+Wilhelmstrasse,wikidata,,Q11027623,way
 Winterthurerstrasse,wikidata,,Q9125,way
 Abeggweg,,,,way
 Abendweg,,,,way
@@ -158,11 +166,9 @@ Appenzellerstrasse,,,,way
 Appenzellerweg,,,,way
 Aprikosenstrasse,,,,way
 Arbentalstrasse,,,,way
-Arbenzstrasse,,,,way
 Arnikaweg,,,,way
 Arosasteig,,,,way
 Arosastrasse,,,,way
-Arterstrasse,,,,way
 Arvenweg,,,,way
 Aspholzstrasse,,,,way
 Aspweg,,,,way
@@ -173,10 +179,7 @@ Aubruggstrasse,,,,way
 Aubruggweg,,,,way
 "Auf der Egg",,,,way
 "Auf der Mauer",,,,way
-Augustinergasse,,,,way
-Augustinerhof,,,,way
 Auhofstrasse,,,,way
-Aurorastrasse,,,,way
 Ausserdorfstrasse,,,,way
 Ausstellungsstrasse,,,,way
 Austrasse,,,,way
@@ -186,7 +189,6 @@ Auzelg,,,,way
 Azurstrasse,,,,way
 Baalweg,,,,way
 Bächlerstrasse,,,,way
-Bachmannweg,,,,way
 Bachmattstrasse,,,,way
 Bachmattweg,,,,way
 Bachstrasse,,,,way
@@ -474,8 +476,6 @@ Eisengasse,,,,way
 Eisfeldstrasse,,,,way
 Eisgasse,,,,relation+way
 Eisvogelweg,,,,way
-Ekkehardsteig,,,,way
-Ekkehardstrasse,,,,way
 Elefantenweg,,,,way
 Elfenweg,,,,way
 Elsässergasse,,,,way
@@ -495,7 +495,6 @@ Enzianweg,,,,way
 Erchenbühlstrasse,,,,way
 Erchenbühlweg,,,,way
 Erdbrustweg,,,,way
-Erlachstrasse,,,,way
 "Erlebnissteg Limmatauen Werdhölzli",,,,way
 Erlenstrasse,,,,way
 Erlenweg,,,,way
@@ -603,7 +602,6 @@ Friedaustrasse,,,,way
 Friedensgasse,,,,way
 Friedheimstrasse,,,,way
 Friedhofstrasse,,,,way
-Friedrichstrasse,,,,way
 Friesenberghalde,,,,way
 Friesenbergplatz,,,,way
 Friesenbergstrasse,,,,way
@@ -654,12 +652,10 @@ Georgengasse,,,,way
 Geranienstrasse,,,,way
 Gerbergasse,,,,way
 Gerechtigkeitsgasse,,,,way
-Gerhardstrasse,,,,way
 Germaniastrasse,,,,way
 Geroldrampe,,,,way
 Geroldstrasse,,,,way
 Gerstenstrasse,,,,way
-Gessnerbrücke,,,,way
 Gfellstrasse,,,,way
 Giacomettiweg,,,,way
 Giblenstrasse,,,,way
@@ -996,8 +992,6 @@ Imbisbühlhalde,,,,way
 Imbisbühlsteig,,,,way
 Imbisbühlstrasse,,,,way
 Imbisbühlweg,,,,way
-Imfeldsteig,,,,way
-Imfeldstrasse,,,,way
 Immenweg,,,,way
 "In Böden",,,,way
 "In Büngerten",,,,way
@@ -1607,7 +1601,6 @@ Rosshalde,,,,way
 Rosshauweg,,,,way
 Rössligasse,,,,way
 Roswiesenstrasse,,,,way
-Rotachstrasse,,,,way
 Rotbuchstrasse,,,,way
 Rötelsteig,,,,way
 Rötelstrasse,,,,way
@@ -1682,8 +1675,6 @@ Schifflände,,,,way
 Schiffländeplatz,,,,way
 Schiffliwiesenweg,,,,way
 Schimmelstrasse,,,,way
-Schindlersteig,,,,way
-Schindlerstrasse,,,,way
 Schipfe,,,,way
 Schlatterweg,,,,way
 Schlehdornweg,,,,way
@@ -2108,8 +2099,6 @@ Wildbachstrasse,,,,way
 Wildenstrasse,,,,way
 Wildenweg,,,,way
 Wildfangweg,,,,way
-Wilfriedstrasse,,,,way
-Wilhelmstrasse,,,,way
 Winkelriedstrasse,,,,way
 Winkelstrasse,,,,way
 Winkelwiese,,,,way
@@ -2141,7 +2130,6 @@ Wydenstrasse,,,,relation
 Wydlerweg,,,,way
 Wyssenbühlsteig,,,,way
 Zahnradstrasse,,,,way
-Zähringerplatz,,,,way
 Zanggerweg,,,,way
 Zapfensteig,,,,way
 Zederstrasse,,,,way

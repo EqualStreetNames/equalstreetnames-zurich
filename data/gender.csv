@@ -75,11 +75,14 @@ Ampèresteg,wikidata,M,Q675,way
 Ampèrestrasse,wikidata,M,Q675,way
 Angererstrasse,wikidata,M,Q5557132,way
 Anton-Higi-Strasse,wikidata,M,Q15439713,way
+Arbenzstrasse,wikidata,M,Q110997078,way
 Armin-Bollinger-Weg,wikidata,M,Q687416,way
+Arterstrasse,wikidata,M,Q110997181,way
 Arthur-Rohn-Strasse,wikidata,M,Q711179,way
 Attenhoferstrasse,wikidata,M,Q4072280,way
 August-Forel-Strasse,wikidata,M,Q22530,way
 Auguste-Piccard-Hof,wikidata,M,Q210719,way
+Bachmannweg,wikidata,M,Q110997246,way
 Bachofnerstrasse,wikidata,M,Q78057092,way
 Bächtoldstrasse,wikidata,M,Q1678898,way
 Baumgartnerstrasse,wikidata,M,Q1347497,way
@@ -131,6 +134,8 @@ Edisonstrasse,wikidata,M,Q8743,way
 Eduard-Imhof-Strasse,wikidata,M,Q123786,way
 Eduard-Stiefel-Weg,wikidata,M,Q122724,way
 Eglistrasse,wikidata,M,Q1336007,way
+Ekkehardsteig,wikidata,M,Q78432,way
+Ekkehardstrasse,wikidata,M,Q78432,way
 Elias-Canetti-Strasse,wikidata,M,Q80064,way
 Emil-Klöti-Strasse,wikidata,M,Q1336378,way
 Emil-Oberhänsli-Platz,wikidata,M,Q27323304,way
@@ -140,6 +145,7 @@ Emil-Rütti-Weg,wikidata,M,Q27323124,way
 Emil-Spillmann-Weg,wikidata,M,Q27323137,way
 Erismannhof,wikidata,M,Q118013,way
 Erismannstrasse,wikidata,M,Q118013,way
+Erlachstrasse,wikidata,M,Q123886,way
 Ernst-Nobs-Platz,wikidata,M,Q115561,way
 Ernst-Zöbeli-Strasse,wikidata,M,Q27322833,way
 Ernst-Zöbeli-Weg,wikidata,M,Q27322833,way
@@ -167,6 +173,7 @@ General-Wille-Strasse,wikidata,M,Q116124,way
 Georg-Baumberger-Weg,wikidata,M,Q1503635,way
 Georg-Kempf-Strasse,wikidata,M,Q1504971,way
 Gessnerallee,wikidata,M,Q123765,way
+Gessnerbrücke,wikidata,M,Q123765,way
 Giacomettistrasse,wikidata,M,Q689411;Q671236;Q157194,way
 Gladbachstrasse,wikidata,M,Q1358258,way
 Goethestrasse,wikidata,M,Q5879,way
@@ -210,10 +217,12 @@ Hornergasse,wikidata,M,Q123315,way
 Hugo-Koblet-Weg,wikidata,M,Q123548,way
 Huttensteig,wikidata,M,Q77107,way
 Huttenstrasse,wikidata,M,Q77107,way
+Imfeldsteig,wikidata,M,Q2597754,way
+Imfeldstrasse,wikidata,M,Q2597754,way
 Jacob-Burckhardt-Strasse,wikidata,M,Q59945,way
 Jakob-Ackeret-Weg,wikidata,M,Q123301,way
 Jakob-Fügli-Strasse,wikidata,M,Q27322938,way
-Jakob-Peter-Weg,wikidata,M,Q27323197,way
+Jakob-Peter-Weg,wikidata,M,Q59712843,way
 James-Joyce-Strasse,wikidata,M,Q6882,way
 Jenatschstrasse,wikidata,M,Q122036,way
 Joachim-Hefti-Weg,wikidata,M,Q27322952,way
@@ -309,6 +318,8 @@ Schäppiweg,wikidata,M,Q29024274,way
 Scheffelstrasse,wikidata,M,Q9082,way
 Scherrstrasse,wikidata,M,Q1657546,way
 Schillerstrasse,wikidata,M,Q22670,way
+Schindlersteig,wikidata,M,Q1048029,way
+Schindlerstrasse,wikidata,M,Q1048029,way
 Schoeckstrasse,wikidata,M,Q661927,way
 Schönleinstrasse,wikidata,M,Q61678,way
 Schreberweg,wikidata,M,Q153160,way
@@ -352,6 +363,7 @@ Wiesendangerstrasse,wikidata,M,Q110874257,way
 Wissmannstrasse,wikidata,M,Q55683815,way
 Wolfgang-Pauli-Strasse,wikidata,M,Q65989,way
 Wunderlistrasse,wikidata,M,Q27323024,way
+Zähringerplatz,wikidata,M,Q690990,way
 Zähringerstrasse,wikidata,M,Q690990,way
 Zehnderweg,wikidata,M,Q2226220,way
 Zeunersteig,wikidata,M,Q68225,way
