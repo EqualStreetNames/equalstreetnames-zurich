@@ -158,7 +158,10 @@ More about [HLS on Wikipedia](https://de.wikipedia.org/wiki/Historisches_Lexikon
 You may use HLS to add Information on Wikidata / Wikipedia and even create a Wikipedia-article entirely based on an HLS-article. 
 :warning: If you do so, Cite all Informations! See section on How to.
 
-
+# Data Quality
+Checkout following Projects which check Data used by zurich.equalstreetnames.eu: 
+- [equalstreetnames-zurich-todo](https://github.com/metaodi/equalstreetnames-zurich-todo)
+- [equalstreetnames-zurich-QS](https://github.com/CaptainInler/equalstreetnames-zurich-QS)
 
 # ToDo
 - [x] The official Strassenverzeichnis lists 2'542 named streets in Zürich. Equalstreetnames mentiones 2'472 named Streets. Why is there a difference?
