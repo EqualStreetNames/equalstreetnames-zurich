@@ -54,6 +54,7 @@ Juliastrasse,wikidata,,Q2737173,way
 Jupitersteig,wikidata,,Q4649,way
 Jupiterstrasse,wikidata,,Q4649,way
 Kalanderplatz,wikidata,,Q1365679,way
+Klausstrasse,wikidata,,Q27229650,way
 Kloster-Fahr-Weg,wikidata,,Q356555,way
 Kräuelgasse,wikidata,,Q1494504,relation
 Kyburgstrasse,wikidata,,Q573643,way
@@ -167,6 +168,7 @@ Altwiesenstrasse,,,,way
 "Am Holbrig",,,,way
 "Am Hönggerberg",,,,way
 "Am Katzenbach",,,,way
+"Am Kohlendreieck",,,,way
 "Am Luchsgraben",,,,way
 "Am Oeschbrig",,,,way
 "Am Rank",,,,way
@@ -741,6 +743,7 @@ Guggerweg,,,,way
 Gugolzstrasse,,,,way
 Guldinerweg,,,,way
 Gustav-Ammann-Park,,,,way
+Güterstrasse,,,,way
 Guthirtstrasse,,,,way
 Gutstrasse,,,,way
 Gwandensteig,,,,way
@@ -989,7 +992,6 @@ Immenweg,,,,way
 "In der Guldenen",,,,way
 "In der Hub",,,,way
 "In der Looren",,,,way
-"In der Müseren",,,,way
 "In der Schüpf",,,,way
 "In der Sommerau",,,,way
 "In der Wässeri",,,,way
@@ -1062,7 +1064,6 @@ Kirchenweg,,,,way
 Kirchgasse,,,,way
 Kirchweg,,,,way
 Klarastrasse,,,,way
-Klausstrasse,,,,way
 Klebestrasse,,,,way
 Klebeweg,,,,way
 Kleeweidstrasse,,,,way
@@ -1139,7 +1140,7 @@ L'Ascensore,,,,way
 Lachenacker,,,,way
 Lachenzelgstrasse,,,,way
 Lägernstrasse,,,,way
-Lagerstrasse,,,,relation+way
+Lagerstrasse,,,,relation
 Landenbergpark,,,,way
 Landenbergstrasse,,,,way
 Landhusweg,,,,way
@@ -1217,6 +1218,7 @@ Lindenplatz,,,,relation
 Lindenstrasse,,,,way
 Lindenweg,,,,way
 Lindenzelgweg,,,,way
+Linderweg,,,,way
 Lochbrunnenweg,,,,way
 Lochenweg,,,,way
 Lochmannstrasse,,,,way
@@ -1476,6 +1478,7 @@ Promenadengasse,,,,way
 Püntstrasse,,,,way
 Quadroplatz,,,,way
 Quaibrücke,,,,way
+"Quartierpark Berghalden",,,,way
 "Quartierpark Rosengarten",,,,way
 Quarzstrasse,,,,way
 Quellenstrasse,,,,way
@@ -1898,6 +1901,7 @@ Tödistrasse,,,,way
 Töpferstrasse,,,,way
 Torgasse,,,,way
 Traktorenstrasse,,,,way
+"Trampfelpfad Ost",,,,way
 Tramstrasse,,,,way
 Traubenstrasse,,,,way
 Traugottstrasse,,,,way
