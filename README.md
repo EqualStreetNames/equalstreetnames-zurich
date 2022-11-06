@@ -4,7 +4,7 @@
 Follow us on Twitter: https://twitter.com/equalsnzueri
 
 # Overview
-🌟 [zurich.equalstreetnames.eu]() shows all Streets named after a Person. 🌟  
+🌟 [zurich.equalstreetnames.eu](https://zurich.equalstreetnames.eu) shows all Streets named after a Person. 🌟  
 This means there should no more streets missing on the map. If we missed one, please leave a note on twitter or raise an issue in this repo. Thanks 🙌
 
 ---
