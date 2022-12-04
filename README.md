@@ -40,7 +40,9 @@ To make the map of equalstreetnames work, a wikidata entry needs following marke
   * `place of birth` (P19)
   * `date of death` (P570)
   * `place of death` (P20)
-  * `commemorative plaque image` (P1801). Image of the Tafeltext of the Street. The Text should be according to snb_tafeltext_1 of Strassenverzeichnis. Check [Wikimedia Category "Street_signs_in_Zürich"](https://commons.wikimedia.org/wiki/Category:Street_signs_in_Z%C3%BCrich). Example: [Ernst Nobs](https://www.wikidata.org/wiki/Q115561)
+  * `commemorative plaque image` (P1801). Image of the Tafeltext of the Street. Check [Wikimedia Category "Street_signs_in_Zürich"](https://commons.wikimedia.org/wiki/Category:Street_signs_in_Z%C3%BCrich). Example: [Ernst Nobs](https://www.wikidata.org/wiki/Q115561)
+  * `occupation` (P106). If "municipality president" use instead:
+    * `position held` (P39): `municipality president (Switzerland)` (Q1268257). Example: [Heinrich Steffen](https://www.wikidata.org/wiki/Q111222591)
 * Identifiers:
   * `HDS ID` (P902). Link to the HLS-article-Nr of this person. Example: [Annemarie Schwarzenbach](https://www.wikidata.org/wiki/Q123368)
 
