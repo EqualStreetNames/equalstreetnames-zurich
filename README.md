@@ -41,10 +41,12 @@ To make the map of equalstreetnames work, a wikidata entry needs following marke
   * `date of death` (P570)
   * `place of death` (P20)
   * `commemorative plaque image` (P1801). Image of the Tafeltext of the Street. Check [Wikimedia Category "Street_signs_in_Zürich"](https://commons.wikimedia.org/wiki/Category:Street_signs_in_Z%C3%BCrich). Example: [Ernst Nobs](https://www.wikidata.org/wiki/Q115561)
-  * `occupation` (P106). If "municipality president" use instead:
+  * `occupation` (P106). If "municipality president" set=`politician` (Q82955) and add:
     * `position held` (P39): `municipality president (Switzerland)` (Q1268257). Example: [Heinrich Steffen](https://www.wikidata.org/wiki/Q111222591)
 * Identifiers:
   * `HDS ID` (P902). Link to the HLS-article-Nr of this person. Example: [Annemarie Schwarzenbach](https://www.wikidata.org/wiki/Q123368)
+
+
 
 Declare Sources on Wikidata :warning:  
 If you add Information to Wikidata, don't forget to cite your source.
@@ -63,6 +65,8 @@ Adding Information from the HLS to a Statement
   * `retrieved` = Date of Day you entered the Information (Usualy Today)
   * `reference URL` = URL to the article like https://hls-dhs-dss.ch/de/articles/009370/2012-09-11/
 * Example: `place of birth` of [Erika Rikli](https://www.wikidata.org/wiki/Q96489752)
+
+
 
 ## New Wikipedia article
 
