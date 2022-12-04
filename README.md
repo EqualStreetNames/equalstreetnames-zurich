@@ -43,6 +43,9 @@ To make the map of equalstreetnames work, a wikidata of the person entry needs f
   * `commemorative plaque image` (P1801). Image of the Tafeltext of the Street. Check [Wikimedia Category "Street_signs_in_Zürich"](https://commons.wikimedia.org/wiki/Category:Street_signs_in_Z%C3%BCrich). Example: [Ernst Nobs](https://www.wikidata.org/wiki/Q115561)
   * `occupation` (P106). If "municipality president" set=`politician` (Q82955) and add:
     * `position held` (P39): `municipality president (Switzerland)` (Q1268257). Example: [Heinrich Steffen](https://www.wikidata.org/wiki/Q111222591)
+      * `start time` (P580)
+      * `end time` (P582)
+      * `of` (P642)
 * Identifiers:
   * `HDS ID` (P902). Link to the HLS-article-Nr of this person. Example: [Annemarie Schwarzenbach](https://www.wikidata.org/wiki/Q123368)
 
