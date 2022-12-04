@@ -187,8 +187,6 @@ Checkout following Projects which check Data used by zurich.equalstreetnames.eu:
 - [equalstreetnames-zurich-QS](https://github.com/CaptainInler/equalstreetnames-zurich-QS)
 
 # ToDo
-- [ ] List of all ~600 Streetnames on Github.
-- [ ] Add ESID to Streets in Wikidata. 
-- [ ] Check differences in Wikidate-Statements of Streets in Geneva and Zurich. Are there any? If yes, how to adjust them?
+- [ ] List of all ~500 Streetnames on Github.
 - [x] The official Strassenverzeichnis lists 2'542 named streets in Zürich. Equalstreetnames mentiones 2'472 named Streets. Why is there a difference? -> Because some Streets in listed in the official Strassenverzeichnis are planed but not realised yet.
 - [x] Ask [frauenstadtrundgangzuerich.ch](www.frauenstadtrundgangzuerich.ch) to use Videos of [Digital Stadtrundgänge](https://www.frauenstadtrundgangzuerich.ch/digitale-rundg%C3%A4nge) on Wikimedia -> Twitter
