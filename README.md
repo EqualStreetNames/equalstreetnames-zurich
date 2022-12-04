@@ -24,7 +24,7 @@ This means there should no more streets missing on the map. If we missed one, pl
 # How To
 
 ## Add Information to Wikidata
-To make the map of equalstreetnames work, a wikidata entry needs following marked with *. All other are optional:
+To make the map of equalstreetnames work, a wikidata of the person entry needs following statements marked with *. All other Statements are optional:
 * *`label` (in English)
 * *`description` (in English)
 * Statements:
