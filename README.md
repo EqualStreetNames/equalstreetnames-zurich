@@ -6,7 +6,7 @@
 
 > Die deutliche Absenz von konkreten Frauenfiguren im öffentlichen Raum spiegeln [...] die Schweizer Geschichtsvergessenheit in Bezug auf Frauen und ihren Ausschluss aus der politischen und wirtschaftlichen Sphäre.
 >
-> -- <cite>Essay der Historikerinnen Tiziana Bonetti und Rachel Huber. [In blick.ch](https://www.blick.ch/life/wissen/geschichte/schweizer-erinnerungskultur-wieso-es-mehr-frauendenkmaeler-braucht-id17408231.html)</cite>  
+> -- <cite>Essay der Historikerinnen Tiziana Bonetti und Rachel Huber. In [blick.ch](https://www.blick.ch/life/wissen/geschichte/schweizer-erinnerungskultur-wieso-es-mehr-frauendenkmaeler-braucht-id17408231.html)</cite>  
 
 ---
 
@@ -41,17 +41,31 @@ To make the map of equalstreetnames work, a wikidata of the person entry needs f
   * `date of death` (P570)
   * `place of death` (P20)
   * `commemorative plaque image` (P1801). Image of the Tafeltext of the Street. Check [Wikimedia Category "Street_signs_in_Zürich"](https://commons.wikimedia.org/wiki/Category:Street_signs_in_Z%C3%BCrich). Example: [Ernst Nobs](https://www.wikidata.org/wiki/Q115561)
-  * `occupation` (P106). If "municipality president" set=`politician` (Q82955) and add:
-    * `position held` (P39): `municipality president (Switzerland)` (Q1268257). Example: [Heinrich Steffen](https://www.wikidata.org/wiki/Q111222591)
-      * `start time` (P580)
-      * `end time` (P582)
-      * `of` (P642)
+
 * Identifiers:
   * `HDS ID` (P902). Link to the HLS-article-Nr of this person. Example: [Annemarie Schwarzenbach](https://www.wikidata.org/wiki/Q123368)
 
+### Gemeindepräsidentin
+Example: [Heinrich Steffen](https://www.wikidata.org/wiki/Q111222591)
+  * `occupation` (P106). If "municipality president" set=`politician` (Q82955) and add:
+    * `position held` (P39): `municipality president (Switzerland)` (Q1268257). 
+      * `start time` (P580)
+      * `end time` (P582)
+      * `of` (P642)
 
+### Gemeinderätin
+[Mitglieder Gemeinderat](https://www.gemeinderat-zuerich.ch/mitglieder)
 
-Declare Sources on Wikidata :warning:  
+### Stadträtin
+[Ehemalige Stadtratsmitglieder seit 1892](https://www.stadt-zuerich.ch/portal/de/index/politik_u_recht/stadtrat/ehemalige_stadtratsmitglieder_seit_1892.html)
+
+### Kantonsrätin
+[Kantonsratsmitglieder ab 1803](https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/kantons-regierungsratswahlen/mitglieder-kantonsrats-ab-1803.html)
+
+### Regierungsrätin
+(Regierungsratsmitglieder ab 1831)[https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/kantons-regierungsratswahlen/mitglieder-regierungsrat.html]
+
+## Declare Sources
 If you add Information to Wikidata, don't forget to cite your source.
 
 Adding Information from the Strassenverzeichnis to a Statement:
