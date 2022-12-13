@@ -65,10 +65,9 @@ Example: [Heinrich Kleinert](https://www.wikidata.org/wiki/Q111219596)
 ### Stadträtin
 [Ehemalige Stadtratsmitglieder seit 1892](https://www.stadt-zuerich.ch/portal/de/index/politik_u_recht/stadtrat/ehemalige_stadtratsmitglieder_seit_1892.html)  
 Example: [Sigmund Widmer](https://www.wikidata.org/wiki/Q120794)
-* `position held` (P39): `council member` (Q708492)
+* `position held` (P39): `Member of the Zurich City Council` (Q111135845)
   * `start time` (P580)
   * `end time` (P582)
-  * `applies to jurisdiction` (P1001) == `Zürich` (Q72)
 
 
 ### Kantonsrätin
