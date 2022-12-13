@@ -45,19 +45,31 @@ To make the map of equalstreetnames work, a wikidata of the person entry needs f
 * Identifiers:
   * `HDS ID` (P902). Link to the HLS-article-Nr of this person. Example: [Annemarie Schwarzenbach](https://www.wikidata.org/wiki/Q123368)
 
+## Politician
+* `occupation` (P106) == `politician` (Q82955)
+
 ### Gemeindepräsidentin
 Example: [Heinrich Steffen](https://www.wikidata.org/wiki/Q111222591)
-  * `occupation` (P106). If "municipality president" set=`politician` (Q82955) and add:
-    * `position held` (P39): `municipality president (Switzerland)` (Q1268257). 
-      * `start time` (P580)
-      * `end time` (P582)
-      * `of` (P642)
+* `position held` (P39): `municipality president (Switzerland)` (Q1268257)
+  * `start time` (P580)
+  * `end time` (P582)
+  * `of` (P642)
 
 ### Gemeinderätin
 [Mitglieder Gemeinderat](https://www.gemeinderat-zuerich.ch/mitglieder)
+Example: [Heinrich Kleinert](https://www.wikidata.org/wiki/Q111219596)
+* `position held` (P39): `Member of the Zurich City Parliament` (Q111219780)
+  * `start time` (P580)
+  * `end time` (P582)
 
 ### Stadträtin
-[Ehemalige Stadtratsmitglieder seit 1892](https://www.stadt-zuerich.ch/portal/de/index/politik_u_recht/stadtrat/ehemalige_stadtratsmitglieder_seit_1892.html)
+[Ehemalige Stadtratsmitglieder seit 1892](https://www.stadt-zuerich.ch/portal/de/index/politik_u_recht/stadtrat/ehemalige_stadtratsmitglieder_seit_1892.html)  
+Example: [Sigmund Widmer](https://www.wikidata.org/wiki/Q120794)
+* `position held` (P39): `council member` (Q708492)
+  * `start time` (P580)
+  * `end time` (P582)
+  * `applies to jurisdiction` (P1001) == `Zürich` (Q72)
+
 
 ### Kantonsrätin
 [Kantonsratsmitglieder ab 1803](https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/kantons-regierungsratswahlen/mitglieder-kantonsrats-ab-1803.html)
