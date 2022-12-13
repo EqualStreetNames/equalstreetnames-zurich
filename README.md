@@ -56,7 +56,7 @@ Example: [Heinrich Steffen](https://www.wikidata.org/wiki/Q111222591)
   * `of` (P642)
 
 ### Gemeinderätin
-[Mitglieder Gemeinderat](https://www.gemeinderat-zuerich.ch/mitglieder)
+[Mitglieder Gemeinderat](https://www.gemeinderat-zuerich.ch/mitglieder)  
 Example: [Heinrich Kleinert](https://www.wikidata.org/wiki/Q111219596)
 * `position held` (P39): `Member of the Zurich City Parliament` (Q111219780)
   * `start time` (P580)
@@ -75,7 +75,7 @@ Example: [Sigmund Widmer](https://www.wikidata.org/wiki/Q120794)
 [Kantonsratsmitglieder ab 1803](https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/kantons-regierungsratswahlen/mitglieder-kantonsrats-ab-1803.html)
 
 ### Regierungsrätin
-(Regierungsratsmitglieder ab 1831)[https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/kantons-regierungsratswahlen/mitglieder-regierungsrat.html]
+[Regierungsratsmitglieder ab 1831](https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/kantons-regierungsratswahlen/mitglieder-regierungsrat.html)
 
 ## Declare Sources
 If you add Information to Wikidata, don't forget to cite your source.
