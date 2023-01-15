@@ -47,6 +47,7 @@ To make the map of equalstreetnames work, a wikidata of the person entry needs f
 
 ## Politician
 * `occupation` (P106) == `politician` (Q82955)
+* `member of political party` (P102) 
 
 ### Gemeindepräsidentin
 Example: [Heinrich Steffen](https://www.wikidata.org/wiki/Q111222591)
@@ -75,6 +76,47 @@ Example: [Sigmund Widmer](https://www.wikidata.org/wiki/Q120794)
 
 ### Regierungsrätin
 [Regierungsratsmitglieder ab 1831](https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/kantons-regierungsratswahlen/mitglieder-regierungsrat.html)
+
+## Owner / Founder of a Company
+On the person:
+* `owner of` (P1830) 
+  * `start time` (P580)
+  * `end time` (P582)
+* `position held` (P39) ==  `chief executive officer` (Q484876) 
+  * `start time` (P580)
+  * `end time` (P582)  
+* `employer` (P108) 
+
+Example:
+* [Johannes Sträuli](https://www.wikidata.org/wiki/Q78072440)
+
+On The Company:
+* `founded by` (P112) 
+* `inception` (P571) 
+* `owned by` (P127) 
+
+Example:
+* [Seifenfabrik Sträuli](https://www.wikidata.org/wiki/Q25387502)
+
+## Founder / Worker of an Organization
+On the Organization
+* `inception` (P571) 
+* `founded by` (P112). Für Gründerin
+* `chairperson` (P488). Für Präsidentin
+  * `start time` (P580)
+  * `end time` (P582)  
+  
+Example:
+* [Schweizerischer Arbeiterinnenverband](https://www.wikidata.org/wiki/Q2513935) 
+
+On the person:
+* `member of` (P463) 
+* `member of political party` (P102). If in a political Party
+* `employer` (P108). If worked for the organization
+
+Example:
+* [Verena Conzett](https://www.wikidata.org/wiki/Q2515240) 
+
 
 ## Declare Sources
 If you add Information to Wikidata, don't forget to cite your source.
