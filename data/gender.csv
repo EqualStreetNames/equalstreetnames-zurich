@@ -1,7 +1,6 @@
 name,source,gender,wikidata,type
 Agnes-Robmann-Weg,wikidata,F,Q27323047,way
 Anna-Heer-Strasse,wikidata,F,Q560826,way
-Annemarie-Schwarzenbach-Weg,wikidata,F,Q123368,way
 Anny-Klawa-Platz,wikidata,F,Q23666560,way
 Bertastrasse,wikidata,F,Q2661025,way
 Brupbacherplatz,wikidata,F,Q2063662,way
@@ -32,7 +31,6 @@ Lux-Guyer-Weg,wikidata,F,Q118435,way
 Lydia-Welti-Escher-Hof,wikidata,F,Q117524,way
 Margaretenweg,wikidata,F,Q214911,way
 Margrit-Rainer-Strasse,wikidata,F,Q119555,way
-Maria-Stader-Weg,wikidata,F,Q123236,way
 Marie-Baum-Weg,wikidata,F,Q108454,way
 Marie-Bürkli-Eck,wikidata,F,Q106986548,way
 Marie-Curie-Platz,wikidata,F,Q7186,way
@@ -495,4 +493,4 @@ Zöllystrasse,wikidata,M,Q117624,way
 Zschokkestrasse,wikidata,M,Q66207,way
 Zwingliplatz,wikidata,M,Q123034,way
 Zwinglistrasse,wikidata,M,Q123034,relation
-Zwyssigstrasse,wikidata,M,Q667651,way
+Zwyssigstrasse,wikidata,X,Q667651,way
