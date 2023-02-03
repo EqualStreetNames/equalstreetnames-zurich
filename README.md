@@ -77,6 +77,10 @@ Example: [Sigmund Widmer](https://www.wikidata.org/wiki/Q120794)
 ### Regierungsrätin
 [Regierungsratsmitglieder ab 1831](https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/kantons-regierungsratswahlen/mitglieder-regierungsrat.html)
 
+### National-/Stände-/Bundesrätin
+Search of [parlament.ch](https://www.parlament.ch/de/suche) -> Declare Sources as described in capter below
+
+
 ## Owner / Founder of a Company
 On the person:
 * `owner of` (P1830) 
@@ -121,6 +125,7 @@ Example:
 ## Declare Sources
 If you add Information to Wikidata, don't forget to cite your source.
 
+### Strassenverzeichnis
 Adding Information from the Strassenverzeichnis to a Statement:
 * click `add reference`
 * choose:
@@ -128,6 +133,7 @@ Adding Information from the Strassenverzeichnis to a Statement:
   * `retrieved` = Date of Day you entered the Information (Usualy Today)
 * Example: `date of birth` of [Anna Häuptli](https://www.wikidata.org/wiki/Q27323074)
 
+### HLS
 Adding Information from the HLS to a Statement
 * click `add reference` 
 * choose:
@@ -137,6 +143,14 @@ Adding Information from the HLS to a Statement
   * `reference URL` = URL to the article like https://hls-dhs-dss.ch/de/articles/009370/2012-09-11/
 * Example: `place of birth` of [Erika Rikli](https://www.wikidata.org/wiki/Q96489752)
 
+### parlament.ch
+Adding Information from parlament.ch to a Statement
+* click `add reference` 
+* choose:
+  * `stated in` = `parlament.ch council member database` (Q77532118)
+  * `retrieved` = Date of Day you entered the Information (Usualy Today)
+  * `Swiss parliament ID` = ID of the parlament.ch Article. E.g. `707` for [Emilie Lieberherr]([https://hls-dhs-dss.ch/de/articles/009370/2012-09-11/](https://www.parlament.ch/de/biografie/emilie-lieberherr/707))
+* Example: `position held`=`Member of the Swiss Council of States` of [Emilie Lieberherr](https://www.wikidata.org/wiki/Q1337334)
 
 
 ## New Wikipedia article
