@@ -133,7 +133,7 @@ Adding Information from the HLS to a Statement
 * choose:
   * `stated in` = `Historical Dictionary of Switzerland` (Q642074)
   * `retrieved` = Date of Day you entered the Information (Usualy Today)
-  * `HDS ID` = 6-Digit ID of the HDS Article. E.g. `009370 for [Erika Rikli](https://hls-dhs-dss.ch/de/articles/009370/2012-09-11/)
+  * `HDS ID` = 6-Digit ID of the HDS Article. E.g. `009370` for [Erika Rikli](https://hls-dhs-dss.ch/de/articles/009370/2012-09-11/)
   * `reference URL` = URL to the article like https://hls-dhs-dss.ch/de/articles/009370/2012-09-11/
 * Example: `place of birth` of [Erika Rikli](https://www.wikidata.org/wiki/Q96489752)
 
