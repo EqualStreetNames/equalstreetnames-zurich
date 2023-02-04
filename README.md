@@ -72,7 +72,7 @@ Example: [Sigmund Widmer](https://www.wikidata.org/wiki/Q120794)
 
 
 ### Kantonsrätin
-[Kantonsratsmitglieder ab 1803](https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/kantons-regierungsratswahlen/mitglieder-kantonsrats-ab-1803.html)
+[Kantonsratsmitglieder ab 1803](https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/kantons-regierungsratswahlen/mitglieder-kantonsrats-ab-1803.html)  
 Example: [Heinrich Ernst](https://www.wikidata.org/wiki/Q2114778)
 * `position held` (P39): `Member of the Cantonal Council of Zurich` (Q21518678)
   * `start time` (P580)
@@ -159,19 +159,8 @@ Adding Information from parlament.ch to a Statement
 * choose:
   * `stated in` = `parlament.ch council member database` (Q77532118)
   * `retrieved` = Date of Day you entered the Information (Usualy Today)
-  * `Swiss parliament ID` = ID of the parlament.ch Article. E.g. `707` for [Emilie Lieberherr]([https://hls-dhs-dss.ch/de/articles/009370/2012-09-11/](https://www.parlament.ch/de/biografie/emilie-lieberherr/707))
+  * `Swiss parliament ID` = ID of the parlament.ch Article. E.g. `707` for [Emilie Lieberherr](https://www.parlament.ch/de/biografie/emilie-lieberherr/707)
 * Example: `position held`=`Member of the Swiss Council of States` of [Emilie Lieberherr](https://www.wikidata.org/wiki/Q1337334)
-
-
-## New Wikipedia article
-
-If there is no existing Wikipedia Articel, the "Historische Lexikon der Schweiz (HLS)" alows to copy there complete Information to Wikipedia. See: [Nutzungshinweise](https://hls-dhs-dss.ch/de/about/usage)
-
-Declare Sources on Wikipedia :warning:
-
-If you add Information to Wikipedia, don't forget to cite your source.
-* If you create an Article completly baed on HLS add `{{HLS-Text|202356100}}` or even better `{{HLS-Text|Artikel=026515/2011-12-28|Version=190573009|Autor=Stefanie Spirig-Bülte}}` according [Vorlage:HLS-Text](https://de.wikipedia.org/wiki/Vorlage:HLS-Text)
-* If only some Texts are form HLS, add a Weblink according [Vorlage:HLS](https://de.wikipedia.org/wiki/Vorlage:HLS)
 
 # Datasoures
 ## Strassenverzeichnis der Stadt Zürich
@@ -195,6 +184,18 @@ More about [HLS on Wikipedia](https://de.wikipedia.org/wiki/Historisches_Lexikon
 
 You may use HLS to add Information on Wikidata / Wikipedia and even create a Wikipedia-article entirely based on an HLS-article. 
 :warning: If you do so, Cite all Informations! See Advanced Section.
+
+
+# New Wikipedia article
+
+If there is no existing Wikipedia Articel, the "Historische Lexikon der Schweiz (HLS)" alows to copy there complete Information to Wikipedia. See: [Nutzungshinweise](https://hls-dhs-dss.ch/de/about/usage)
+
+Declare Sources on Wikipedia :warning:
+
+If you add Information to Wikipedia, don't forget to cite your source.
+* If you create an Article completly baed on HLS add `{{HLS-Text|202356100}}` or even better `{{HLS-Text|Artikel=026515/2011-12-28|Version=190573009|Autor=Stefanie Spirig-Bülte}}` according [Vorlage:HLS-Text](https://de.wikipedia.org/wiki/Vorlage:HLS-Text)
+* If only some Texts are form HLS, add a Weblink according [Vorlage:HLS](https://de.wikipedia.org/wiki/Vorlage:HLS)
+
 
 # Data Quality
 Checkout following Projects which check Data used by zurich.equalstreetnames.eu: 
