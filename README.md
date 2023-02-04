@@ -73,7 +73,10 @@ Example: [Sigmund Widmer](https://www.wikidata.org/wiki/Q120794)
 
 ### Kantonsrätin
 [Kantonsratsmitglieder ab 1803](https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/kantons-regierungsratswahlen/mitglieder-kantonsrats-ab-1803.html)
-
+Example: [Heinrich Ernst](https://www.wikidata.org/wiki/Q2114778)
+* `position held` (P39): `Member of the Cantonal Council of Zurich` (Q21518678)
+  * `start time` (P580)
+  * `end time` (P582)
 
 ### Regierungsrätin
 [Regierungsratsmitglieder ab 1831](https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/kantons-regierungsratswahlen/mitglieder-regierungsrat.html)  
