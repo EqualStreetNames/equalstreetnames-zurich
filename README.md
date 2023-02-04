@@ -76,8 +76,8 @@ Example: [Sigmund Widmer](https://www.wikidata.org/wiki/Q120794)
 
 
 ### Regierungsrätin
-[Regierungsratsmitglieder ab 1831](https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/kantons-regierungsratswahlen/mitglieder-regierungsrat.html)
-Example: [Sigmund Widmer](https://www.wikidata.org/wiki/Q120794)
+[Regierungsratsmitglieder ab 1831](https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/kantons-regierungsratswahlen/mitglieder-regierungsrat.html)  
+Example: [Heinrich Ernst](https://www.wikidata.org/wiki/Q2114778)
 * `position held` (P39): `Zürich Executive Councilor` (Q98502244)
   * `start time` (P580)
   * `end time` (P582)
