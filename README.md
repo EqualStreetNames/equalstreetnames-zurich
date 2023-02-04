@@ -74,8 +74,14 @@ Example: [Sigmund Widmer](https://www.wikidata.org/wiki/Q120794)
 ### Kantonsrätin
 [Kantonsratsmitglieder ab 1803](https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/kantons-regierungsratswahlen/mitglieder-kantonsrats-ab-1803.html)
 
+
 ### Regierungsrätin
 [Regierungsratsmitglieder ab 1831](https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/kantons-regierungsratswahlen/mitglieder-regierungsrat.html)
+Example: [Sigmund Widmer](https://www.wikidata.org/wiki/Q120794)
+* `position held` (P39): `Zürich Executive Councilor` (Q98502244)
+  * `start time` (P580)
+  * `end time` (P582)
+
 
 ### National-/Stände-/Bundesrätin
 Search of [parlament.ch](https://www.parlament.ch/de/suche) -> Declare Sources as described in capter below
