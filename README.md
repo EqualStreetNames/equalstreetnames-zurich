@@ -86,7 +86,16 @@ Example: [Heinrich Ernst](https://www.wikidata.org/wiki/Q2114778)
   * `end time` (P582)
 
 
-### National-/Stände-/Bundesrätin
+### Nationalrätin
+[parlament.ch](https://www.parlament.ch/de/suche)
+Example: [Max Bill](https://www.wikidata.org/wiki/Q123454)
+* `position held` (P39): `Member of the Swiss National Council` (Q18510612)
+  * `start time` (P580)
+  * `end time` (P582)
+  * `electoral district` (P768) = `Canton of Zürich` (Q11943)
+
+
+Stände-/Bundesrätin
 Search of [parlament.ch](https://www.parlament.ch/de/suche) -> Declare Sources as described in capter below
 
 
