@@ -312,7 +312,6 @@ Lamprechtweg,wikidata,M,Q111220752,way
 Landisstrasse,wikidata,M,Q27322858,way
 Landoltstrasse,wikidata,M,Q119541,way
 Laufferweg,wikidata,M,Q111220853,way
-Lavaterstrasse,wikidata,M,Q123918,way
 Leonhard-Ragaz-Weg,wikidata,M,Q117322,way
 Leopold-Ruzicka-Weg,wikidata,M,Q122996,way
 Lessingstrasse,wikidata,M,Q34628,way
@@ -464,7 +463,7 @@ Weidmannstrasse,wikidata,M,Q111223213,way
 Weitlingweg,wikidata,M,Q215808,way
 Welchogasse,wikidata,M,Q111223222,way
 Weltistrasse,wikidata,M,Q116957;Q111223264,way
-Wengistrasse,wikidata,M,Q1990487,relation
+Wengistrasse,wikidata,M,Q1990487,relation+way
 Wernerstrasse,wikidata,M,Q111223405,way
 Wettsteinstrasse,wikidata,M,Q90156632,way
 Wibichstrasse,wikidata,M,Q111223463,way

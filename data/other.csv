@@ -35,6 +35,7 @@ Escher-Wyss-Platz,wikidata,,Q672038,way
 FIFA-Strasse,wikidata,,Q253414,way
 Felix-und-Regula-Platz,wikidata,,Q114723,way
 Flüelastrasse,wikidata,,Q372467,way
+Forchstrasse,wikidata,,Q357138,way
 Freyastrasse,wikidata,,Q1647325,relation
 Friedrichstrasse,wikidata,,Q14038597,way
 Füsslistrasse,wikidata,,Q56293075,way
@@ -59,6 +60,7 @@ Klausstrasse,wikidata,,Q27229650,way
 Kloster-Fahr-Weg,wikidata,,Q356555,way
 Kräuelgasse,wikidata,,Q1494504,relation
 Kyburgstrasse,wikidata,,Q573643,way
+Lavaterstrasse,wikidata,,Q123918,way
 Libellenweg,wikidata,,Q25375,way
 Limmatstrasse,wikidata,,Q14338,way
 Limmattalstrasse,wikidata,,Q682541,way
@@ -81,8 +83,13 @@ Minervastrasse,wikidata,,Q126916,way
 Mirabellenstrasse,wikidata,,Q149741,way
 Monikastrasse,wikidata,,Q14013933,way
 Mötteliweg,wikidata,,Q29343429,way
+Mühlebachstrasse,wikidata,,Q693397,way
 Neptunstrasse,wikidata,,Q3954,way
+Neumünsterallee,wikidata,,Q1980945,way
+Neumünsteranlage,wikidata,,Q1980945,way
+Neumünsterstrasse,wikidata,,Q1980945,way
 Rathausbrücke,wikidata,,Q9315546,way
+Riesbachstrasse,wikidata,,Q677710,way
 Rotachstrasse,wikidata,,Q2473618,way
 Rüdigerstrasse,wikidata,,Q29001841,way
 Salvatorstrasse,wikidata,,Q51625,way
@@ -115,6 +122,9 @@ Wipkingerpark,wikidata,,Q678030,way
 Wipkingerplatz,wikidata,,Q678030,way
 Wipkingerweg,wikidata,,Q678030,way
 Wotanstrasse,wikidata,,Q43610,way
+Zollikerstrasse,wikidata,,Q218665,way
+"AFC Zurich Renegades",,,,way
+"ASVZ SPORTCENTER",,,,way
 Abeggweg,,,,way
 Abendweg,,,,way
 Ackermannstrasse,,,,way
@@ -312,6 +322,7 @@ Blaumeisliweg,,,,way
 Bleicherweg,,,,way
 Blindschleichenweg,,,,way
 Blockhauswegli,,,,way
+Blumenbogen,,,,way
 Blumenfeldstrasse,,,,way
 Blumenweg,,,,way
 Blümlisalpstrasse,,,,way
@@ -577,7 +588,6 @@ Flühgasse,,,,way
 Flurstrasse,,,,way
 Föhreneggweg,,,,way
 Föhrenstrasse,,,,way
-Forchstrasse,,,,way
 Forellenweg,,,,way
 Forrenweidstrasse,,,,way
 Förrlibuckstrasse,,,,way
@@ -769,6 +779,7 @@ Hammerstrasse,,,,way
 Hanenbühlweg,,,,way
 Hanfrose,,,,way
 Hangelstrasse,,,,way
+"Hans Beutler-Weg",,,,way
 Hardaupark,,,,way
 Hardaustrasse,,,,way
 Hardauweg,,,,way
@@ -888,6 +899,7 @@ Holzgasse,,,,way
 Holzhofweg,,,,way
 Holzmatt,,,,way
 Holzwiesweg,,,,relation
+"Home Office Trail",,,,way
 Hönggerbergring,,,,way
 Hönggerrampe,,,,way
 Hönggerstrasse,,,,way
@@ -1166,6 +1178,7 @@ Laternengasse,,,,way
 Lättenweg,,,,way
 Laubfroschweg,,,,way
 Laubiweg,,,,way
+"Laufbahn Turner Rösli",,,,way
 Läufebachweg,,,,way
 Läufeweg,,,,way
 Laurenzgasse,,,,way
@@ -1315,7 +1328,6 @@ Muggenbühlerhölzliweg,,,,way
 Muggenbühlstrasse,,,,way
 Mühlackerstrasse,,,,way
 Mühlackerweg,,,,way
-Mühlebachstrasse,,,,way
 Mühlegasse,,,,way
 Mühlehalde,,,,way
 Mühlehaldensteig,,,,way
@@ -1357,9 +1369,6 @@ Neugutstrasse,,,,way
 Neuhausstrasse,,,,way
 Neumarkt,,,,way
 Neumühlequai,,,,way
-Neumünsterallee,,,,way
-Neumünsteranlage,,,,way
-Neumünsterstrasse,,,,way
 Neunbrunnenstrasse,,,,way
 Neustadtgasse,,,,way
 Neuwiesenstrasse,,,,way
@@ -1480,6 +1489,8 @@ Primelstrasse,,,,way
 Probsteistrasse,,,,way
 Probusweg,,,,way
 Promenadengasse,,,,way
+"Pumptrack Bikepark Zürich",,,,way
+"Pumptrack Zürich Allmend",,,,way
 Püntstrasse,,,,way
 Quadroplatz,,,,way
 Quaibrücke,,,,way
@@ -1546,7 +1557,6 @@ Riedhofweg,,,,way
 Riedmattstrasse,,,,way
 Riedtlistrasse,,,,way
 Riedweg,,,,way
-Riesbachstrasse,,,,way
 Rieterpark,,,,way
 Rieterstrasse,,,,way
 Rigiplatz,,,,way
@@ -1788,6 +1798,7 @@ Sperletweg,,,,way
 Spiegelgasse,,,,way
 Spiegelhofstrasse,,,,way
 Spielweg,,,,way
+"Spielwiese Basteiplatz",,,,way
 Spielwiesenstrasse,,,,way
 Spillmannweg,,,,way
 Spindelstrasse,,,,way
@@ -1798,6 +1809,8 @@ Spitalbachweg,,,,way
 Spitalgasse,,,,way
 Spitzackerstrasse,,,,way
 Splügenstrasse,,,,way
+"Sportanlage Utogrund",,,,way
+"Sportplatz Sihlhölzli",,,,way
 Sportweg,,,,way
 Sprecherstrasse,,,,way
 Sprensenbühlstrasse,,,,way
@@ -1808,8 +1821,10 @@ Spulenweg,,,,way
 "St. Peterhofstatt",,,,way
 "St. Peterstrasse",,,,way
 "St. Urbangasse",,,,way
+Stadelhoferpassage,,,,way
 Stadelhoferplatz,,,,way
 Stadelhoferstrasse,,,,way
+"Stadion Letzigrund",,,,way
 Stadthausanlage,,,,way
 Stadthausquai,,,,way
 "Stadtoase VGZ",,,,way
@@ -2110,7 +2125,6 @@ Zielweg,,,,way
 Zimmergasse,,,,way
 Zinnengasse,,,,way
 Zollbrücke,,,,way
-Zollikerstrasse,,,,way
 Zollstrasse,,,,way
 Zooweg,,,,way
 "Zufahrt Rampe 18",,,,way
