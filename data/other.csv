@@ -60,7 +60,6 @@ Klausstrasse,wikidata,,Q27229650,way
 Kloster-Fahr-Weg,wikidata,,Q356555,way
 Kräuelgasse,wikidata,,Q1494504,relation
 Kyburgstrasse,wikidata,,Q573643,way
-Lavaterstrasse,wikidata,,Q123918,way
 Libellenweg,wikidata,,Q25375,way
 Limmatstrasse,wikidata,,Q14338,way
 Limmattalstrasse,wikidata,,Q682541,way
@@ -316,6 +315,7 @@ Birkenweg,,,,way
 Birmensdorferstrasse,,,,way
 Birnbaumstrasse,,,,way
 Bläsistrasse,,,,way
+Blatterwiese,,,,way
 Blauäcker,,,,way
 Blaufahnenstrasse,,,,way
 Blaumeisliweg,,,,way
@@ -1744,6 +1744,7 @@ Seewiesenstrasse,,,,way
 Segetenweg,,,,way
 Seidengasse,,,,way
 Seil,,,,way
+Seiler-Gässli,,,,way
 Seilergraben,,,,way
 Selnaubrücke,,,,way
 Selnaustrasse,,,,relation+way
