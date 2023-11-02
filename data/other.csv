@@ -3,6 +3,7 @@ Aargauerstrasse,wikidata,,Q11972,way
 Agnesstrasse,wikidata,,Q394431,way
 Albertstrasse,wikidata,,Q577011,way
 Allmannstrasse,wikidata,,Q2649320,way
+"Alte Gockhauserstrasse",wikidata,,Q22702178,way
 Amazonenstrasse,wikidata,,Q134154,way
 Amazonenweg,wikidata,,Q134154,way
 Andreasstrasse,wikidata,,Q4926263,way
@@ -156,7 +157,6 @@ Allmendtrail,,,,way
 Allmendweg,,,,way
 "Alte Feldeggstrasse",,,,way
 "Alte Forchstrasse",,,,way
-"Alte Gockhauserstrasse",,,,way
 "Alte Kalchbühlstrasse",,,,way
 "Alte Mühlackerstrasse",,,,way
 "Alte Regensdorferstrasse",,,,way
@@ -640,6 +640,8 @@ Funkwiesenstrasse,,,,way
 Furkastrasse,,,,relation
 Fürstweg,,,,way
 Furttalstrasse,,,,way
+"Fussgänger-Tunnel Ost",,,,way
+"Fussgänger-Tunnel West",,,,way
 "GZ Buchegg",,,,way
 Gablerstrasse,,,,way
 Gämsenstrasse,,,,way
@@ -1307,7 +1309,9 @@ Milchbuckstrasse,,,,way
 Militärbrücke,,,,way
 Militärstrasse,,,,relation
 Mimosenstrasse,,,,way
+"Minigolf Hard",,,,way
 "Minigolf Sperletwies",,,,way
+"Miranda Graf Weg",,,,way
 Mittagweg,,,,way
 Mittelbergsteig,,,,way
 Mittelstrasse,,,,way
@@ -1949,6 +1953,7 @@ Tuggenerstrasse,,,,way
 Tuggenerweg,,,,way
 Tulpenstrasse,,,,way
 Tulpenweg,,,,way
+"Tunnel Langstrasse",,,,way
 Tunnelstrasse,,,,way
 Turbinenplatz,,,,relation
 Turbinenstrasse,,,,way
@@ -2130,6 +2135,10 @@ Zollbrücke,,,,way
 Zollstrasse,,,,way
 Zooweg,,,,way
 "Zufahrt Rampe 18",,,,way
+"Zugang Berninastrasse - Ausgang B",,,,way
+"Zugang Berninastrasse, Binzwiesenstrasse, Winterthurerstrasse - Augang B",,,,way
+"Zugang Schwamendingerstrasse, Riedgrabenweg - Ausgang B",,,,way
+"Zugang runter Schwamendingerstrasse, Riedgrabenweg - Ausgang B",,,,way
 Züghusplatz,,,,way
 "Zum Sillerblick",,,,way
 "Zur frohen Aussicht",,,,way
