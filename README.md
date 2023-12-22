@@ -1,5 +1,5 @@
 # :blue_heart: Welcome to EqualStreetNames Zurich :blue_heart:
-:blue_heart: :white_heart: :blue_heart: :white_heart: :blue_heart: Sali bi EqualStreetNames Züri :blue_heart: :white_heart: :blue_heart: :white_heart: :blue_heart:
+:blue_heart: :white_heart: :blue_heart: :white_heart: :blue_heart: Willkomme bi EqualStreetNames Züri :blue_heart: :white_heart: :blue_heart: :white_heart: :blue_heart:
 
 > Street names reflect the commemorative decisions of each municipality over time, and as such can be understood as the city’s manifesto about its social, cultural and political values. <cite>(Oto-Peralías D, [2018](https://doi.org/10.1093/jeg/lbx030))</cite>.
 
@@ -10,14 +10,13 @@
 
 ---
 
-Follow us on:
+Follow on:
 - Mastodon: [@EqualsnZueri@swiss.social](https://swiss.social/@EqualsnZueri)
-- Twitter: https://twitter.com/equalsnzueri
 
 
 # Overview
 🌟 [zurich.equalstreetnames.eu](https://zurich.equalstreetnames.eu) shows all Streets named after a Person. 🌟  
-This means there should no more streets missing on the map. If we missed one, please leave a note on mastodon, twitter or raise an issue in this repo. Thanks 🙌
+This means there should no more streets missing on the map. If we missed one, please leave a note on mastodon or raise an issue in this repo. Thanks 🙌
 
 ---
 
