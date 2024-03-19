@@ -2,19 +2,28 @@ name,source,gender,wikidata,type
 Aargauerstrasse,wikidata,,Q11972,way
 Agnesstrasse,wikidata,,Q394431,way
 Albertstrasse,wikidata,,Q577011,way
+Albisriederstrasse,wikidata,,Q80797,relation+way
+Albisriederweg,wikidata,,Q80797,way
 Allmannstrasse,wikidata,,Q2649320,way
 "Alte Gockhauserstrasse",wikidata,,Q22702178,way
+"Alte Zürichstrasse",wikidata,,Q72,way
 "Am Hönggerberg",wikidata,,Q106684954,way
 "Am Katzenbach",wikidata,,Q1670272,way
 "Am Schanzengraben",wikidata,,Q2231045,way
 "Am Wettingertobel",wikidata,,Q665389,way
 Amazonenstrasse,wikidata,,Q134154,way
 Amazonenweg,wikidata,,Q134154,way
+Ameisenweg,wikidata,,Q7386,way
 Andreasstrasse,wikidata,,Q4926263,way
 Angelikaweg,wikidata,,Q12898721,way
+Apfelbaumstrasse,wikidata,,Q60458657,way
 Apollostrasse,wikidata,,Q37340,way
+Appenzellerstrasse,wikidata,,Q21517798,way
+Appenzellerweg,wikidata,,Q21517798,way
+Aprikosenstrasse,wikidata,,Q37453,way
 Arianestrasse,wikidata,,Q131535,way
 Arminstrasse,wikidata,,Q15715796,way
+Arnikaweg,wikidata,,Q693908,way
 Augustinergasse,wikidata,,Q214528,way
 Augustinerhof,wikidata,,Q214528,way
 Aurorastrasse,wikidata,,Q178831,way
@@ -25,6 +34,7 @@ Bernerstrasse,wikidata,,Q70,way
 "Bernerstrasse Nord",wikidata,,Q70,way
 "Bernerstrasse Süd",wikidata,,Q70,way
 Bernstrasse,wikidata,,Q70,way
+Birmensdorferstrasse,wikidata,,Q65282,way
 Brown-Boveri-Strasse,wikidata,,Q664420,way
 Calandastrasse,wikidata,,Q16529,way
 Ceresstrasse,wikidata,,Q32102,way
@@ -33,6 +43,7 @@ Dianastrasse,wikidata,,Q645412,way
 Drehergasse,wikidata,,Q196721,way
 Dreikönigbrücke,wikidata,,Q111194269,way
 Dreikönigstrasse,wikidata,,Q111194269,way
+Dübendorfstrasse,wikidata,,Q64082,way
 Elfenweg,wikidata,,Q174396,way
 Elisabethenstrasse,wikidata,,Q17524931,relation
 Ernastrasse,wikidata,,Q599668,way
@@ -89,9 +100,11 @@ Monikastrasse,wikidata,,Q14013933,way
 Mötteliweg,wikidata,,Q29343429,way
 Mühlebachstrasse,wikidata,,Q693397,way
 Neptunstrasse,wikidata,,Q3954,way
+"Neue Winterthurerstrasse",wikidata,,Q9125,way
 Neumünsterallee,wikidata,,Q1980945,way
 Neumünsteranlage,wikidata,,Q1980945,way
 Neumünsterstrasse,wikidata,,Q1980945,way
+Opfikonstrasse,wikidata,,Q64224,way
 Rathausbrücke,wikidata,,Q9315546,way
 Riesbachstrasse,wikidata,,Q677710,way
 Rotachstrasse,wikidata,,Q2473618,way
@@ -100,11 +113,14 @@ Salvatorstrasse,wikidata,,Q51625,way
 Säntisstrasse,wikidata,,Q15224,way
 Schächenstrasse,wikidata,,Q690565,way
 Schaffhauserplatz,wikidata,,Q9009,way
+Schaffhauserstrasse,wikidata,,Q9009,relation+way
 Schmidgasse,wikidata,,Q1639825,way
+Schwamendingenstrasse,wikidata,,Q657525,way
 Sechseläutenplatz,wikidata,,Q520500,relation
 Segnesstrasse,wikidata,,Q16631,way
 Sihlbrücke,wikidata,,Q660909,way
 Sihlstrasse,wikidata,,Q660909,way
+Stettbachstrasse,wikidata,,Q22393278,way
 Sustenstrasse,wikidata,,Q666086,way
 Sustenweg,wikidata,,Q666086,way
 Tellstrasse,wikidata,,Q30908,relation
@@ -117,6 +133,7 @@ Uraniastrasse,wikidata,,Q104002,way
 Venusstrasse,wikidata,,Q47652,way
 Viktoriastrasse,wikidata,,Q308902,way
 Viktoriaweg,wikidata,,Q308902,way
+Wallisellenstrasse,wikidata,,Q69374,way
 Weststrasse,wikidata,,Q679,way
 "Weststrasse Wallisellen",wikidata,,Q679,way
 Wilfriedstrasse,wikidata,,Q16291791,way
@@ -125,6 +142,7 @@ Winterthurerstrasse,wikidata,,Q9125,way
 Wipkingerpark,wikidata,,Q678030,way
 Wipkingerplatz,wikidata,,Q678030,way
 Wipkingerweg,wikidata,,Q678030,way
+Witikonerstrasse,wikidata,,Q392079,way
 Wotanstrasse,wikidata,,Q43610,way
 Zollikerstrasse,wikidata,,Q218665,way
 Abeggweg,,,,way
@@ -146,8 +164,6 @@ Akazienstrasse,,,,way
 "Albert Schumacher-Weg",,,,way
 Albisgütliweg,,,,way
 Albisriederplatz,,,,way
-Albisriederstrasse,,,,relation+way
-Albisriederweg,,,,way
 Albisstrasse,,,,way
 Albulastrasse,,,,way
 Alderstrasse,,,,way
@@ -164,7 +180,6 @@ Allmendweg,,,,way
 "Alte Kalchbühlstrasse",,,,way
 "Alte Mühlackerstrasse",,,,way
 "Alte Regensdorferstrasse",,,,way
-"Alte Zürichstrasse",,,,way
 Altenhofstrasse,,,,way
 "Alter Kirchenweg",,,,way
 "Alter Zürichweg",,,,way
@@ -187,7 +202,6 @@ Altwiesenstrasse,,,,way
 "Am Sägertenbach",,,,way
 "Am Suteracher",,,,way
 "Am Wasser",,,,way
-Ameisenweg,,,,way
 Amselsteig,,,,way
 "An der Specki",,,,way
 Andreaspark,,,,way
@@ -196,12 +210,7 @@ Ankengasse,,,,way
 Ankenweid,,,,way
 Ankerstrasse,,,,relation
 Anwandstrasse,,,,relation
-Apfelbaumstrasse,,,,way
-Appenzellerstrasse,,,,way
-Appenzellerweg,,,,way
-Aprikosenstrasse,,,,way
 Arbentalstrasse,,,,way
-Arnikaweg,,,,way
 Arosasteig,,,,way
 Arosastrasse,,,,way
 Arvenweg,,,,way
@@ -312,7 +321,6 @@ Birchdörfli,,,,way
 Birchsteg,,,,way
 Birchstrasse,,,,way
 Birkenweg,,,,way
-Birmensdorferstrasse,,,,way
 Birnbaumstrasse,,,,way
 Bläsistrasse,,,,way
 Blatterwiese,,,,way
@@ -424,7 +432,6 @@ Chätsch-Weg,,,,way
 Chelleweg,,,,way
 Chillesteig,,,,way
 "Chinagarten Zürich",,,,way
-Chinawiese,,,,way
 Chorgasse,,,,way
 Chorherrenweg,,,,way
 Chriesiweg,,,,way
@@ -467,7 +474,6 @@ Dreispitz,,,,way
 Dreiwiesenstrasse,,,,way
 Drosselstrasse,,,,way
 Drusbergstrasse,,,,way
-Dübendorfstrasse,,,,way
 Dunkelhölzlifussweg,,,,way
 Dunkelhölzlistrasse,,,,way
 Dunkelhölzliweg,,,,way
@@ -498,7 +504,7 @@ Einfangstrasse,,,,way
 Eisenbahnerstrasse,,,,way
 Eisengasse,,,,way
 Eisfeldstrasse,,,,way
-Eisgasse,,,,relation+way
+Eisgasse,,,,relation
 Eisvogelweg,,,,way
 Elefantenweg,,,,way
 Elsässergasse,,,,way
@@ -640,8 +646,6 @@ Funkwiesenstrasse,,,,way
 Furkastrasse,,,,relation
 Fürstweg,,,,way
 Furttalstrasse,,,,way
-"Fussgänger-Tunnel Ost",,,,way
-"Fussgänger-Tunnel West",,,,way
 "GZ Buchegg",,,,way
 Gablerstrasse,,,,way
 Gämsenstrasse,,,,way
@@ -1366,7 +1370,6 @@ Neeserweg,,,,way
 Nelkenstrasse,,,,way
 Neudorfstrasse,,,,way
 "Neue Hard",,,,way
-"Neue Winterthurerstrasse",,,,way
 "Neuer Salzweg",,,,way
 Neufrankengasse,,,,relation
 Neugasse,,,,way
@@ -1427,7 +1430,6 @@ Oetlisbergweg,,,,way
 Oleanderstrasse,,,,way
 Olgaweg,,,,way
 Olivengasse,,,,way
-Opfikonstrasse,,,,way
 Opfikonweg,,,,way
 Ostbühlstrasse,,,,way
 Othmarstrasse,,,,way
@@ -1644,7 +1646,6 @@ Saumackerstrasse,,,,way
 Saumstrasse,,,,way
 Savera-Areal,,,,way
 Schäferweg,,,,way
-Schaffhauserstrasse,,,,relation+way
 Schafmattstrasse,,,,way
 Schafmattweg,,,,way
 Schanzackerstrasse,,,,way
@@ -1715,7 +1716,6 @@ Schützenrain,,,,way
 Schützenrütiweg,,,,way
 Schützenstrasse,,,,way
 Schwalbenweg,,,,way
-Schwamendingenstrasse,,,,way
 Schwamendingerplatz,,,,way
 Schwandenacker,,,,way
 Schwandenholzstrasse,,,,relation+way
@@ -1865,7 +1865,6 @@ Stelzenstrasse,,,,way
 Sternenstrasse,,,,way
 Sternwartstrasse,,,,way
 Stettbacherrain,,,,way
-Stettbachstrasse,,,,way
 Stettbachweg,,,,way
 Stierliweg,,,,way
 Stiglenstrasse,,,,way
@@ -1953,7 +1952,6 @@ Tuggenerstrasse,,,,way
 Tuggenerweg,,,,way
 Tulpenstrasse,,,,way
 Tulpenweg,,,,way
-"Tunnel Langstrasse",,,,way
 Tunnelstrasse,,,,way
 Turbinenplatz,,,,relation
 Turbinenstrasse,,,,way
@@ -2028,7 +2026,6 @@ Waldmeisterweg,,,,way
 Waldschulweg,,,,way
 Waldstrasse,,,,way
 Wallisackerweg,,,,way
-Wallisellenstrasse,,,,way
 Waltersbachstrasse,,,,way
 Waltersteig,,,,way
 Wannenholzstrasse,,,,way
@@ -2062,6 +2059,7 @@ Weisshau,,,,way
 Weizenstrasse,,,,way
 Werdgartengasse,,,,way
 Werdgässchen,,,,way
+Werdhölzlisteg,,,,way
 Werdhölzlistrasse,,,,way
 Werdinsel,,,,way
 Werdmühleplatz,,,,relation+way
@@ -2090,7 +2088,6 @@ Winzerstrasse,,,,way
 Wipkingerbrücke,,,,way
 Wirzenweid,,,,way
 Witellikerstrasse,,,,way
-Witikonerstrasse,,,,way
 Wohllebgasse,,,,way
 Wolfbachstrasse,,,,way
 Wolfbachtobelweg,,,,way
@@ -2135,10 +2132,6 @@ Zollbrücke,,,,way
 Zollstrasse,,,,way
 Zooweg,,,,way
 "Zufahrt Rampe 18",,,,way
-"Zugang Berninastrasse - Ausgang B",,,,way
-"Zugang Berninastrasse, Binzwiesenstrasse, Winterthurerstrasse - Augang B",,,,way
-"Zugang Schwamendingerstrasse, Riedgrabenweg - Ausgang B",,,,way
-"Zugang runter Schwamendingerstrasse, Riedgrabenweg - Ausgang B",,,,way
 Züghusplatz,,,,way
 "Zum Sillerblick",,,,way
 "Zur frohen Aussicht",,,,way
