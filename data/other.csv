@@ -1289,7 +1289,7 @@ Marchwartstrasse,,,,way
 Marderstrasse,,,,way
 Marienstrasse,,,,way
 Marktgasse,,,,way
-"Marktplatz Oerlikon",,,,way
+"Marktplatz Oerlikon",,,,relation
 Markusstrasse,,,,way
 Marmorgasse,,,,relation
 Marstallweg,,,,way
@@ -1452,7 +1452,7 @@ Passage,,,,way
 "Passage Bahnhofstrasse",,,,relation
 "Passage Gessnerallee",,,,relation
 "Passage Löwenstrasse",,,,relation
-"Passage Sihlquai",,,,way
+"Passage Sihlquai",,,,relation
 "Passerelle Gleisbogen",,,,way
 "Passerelle Haspelsteg",,,,way
 Patumbah-Park,,,,way
@@ -1786,7 +1786,6 @@ Sonneggsteig,,,,way
 Sonneggstrasse,,,,way
 Sonnenberghölzliweg,,,,way
 Sonnenbergstrasse,,,,way
-Sonnenbühl,,,,way
 Sonnenrain,,,,way
 Sonnenweg,,,,way
 Sonnhaldenstrasse,,,,way
@@ -1805,7 +1804,6 @@ Sperletweg,,,,way
 Spiegelgasse,,,,way
 Spiegelhofstrasse,,,,way
 Spielweg,,,,way
-"Spielwiese Basteiplatz",,,,way
 Spielwiesenstrasse,,,,way
 Spillmannweg,,,,way
 Spindelstrasse,,,,way
