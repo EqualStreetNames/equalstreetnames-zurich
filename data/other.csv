@@ -57,12 +57,15 @@ Friedrichstrasse,wikidata,,Q14038597,way
 Füsslistrasse,wikidata,,Q56293075,way
 Genferstrasse,wikidata,,Q11917,way
 Gerhardstrasse,wikidata,,Q7996169,way
+Glattalstrasse,wikidata,,Q690769,way
+Glatttalstrasse,wikidata,,Q690769,way
 Gotthardstrasse,wikidata,,Q688549,way
 Hamamelisweg,wikidata,,Q148463,way
 Helenastrasse,wikidata,,Q1035239,way
 Heliosstrasse,wikidata,,Q134270,way
 Hellmutstrasse,wikidata,,Q18755547,relation+way
 Hildastrasse,wikidata,,Q2639538,way
+Hönggerstrasse,wikidata,,Q455496,way
 Hottingerbergstrasse,wikidata,,Q693454,way
 Hottingerplatz,wikidata,,Q693454,way
 Hottingerstrasse,wikidata,,Q693454,way
@@ -74,6 +77,7 @@ Jupiterstrasse,wikidata,,Q4649,way
 Kalanderplatz,wikidata,,Q1365679,way
 Klausstrasse,wikidata,,Q27229650,way
 Kloster-Fahr-Weg,wikidata,,Q356555,way
+Kolibriweg,wikidata,,Q43624,way
 Kräuelgasse,wikidata,,Q1494504,relation
 Kyburgstrasse,wikidata,,Q573643,way
 Libellenweg,wikidata,,Q25375,way
@@ -106,9 +110,11 @@ Neumünsteranlage,wikidata,,Q1980945,way
 Neumünsterstrasse,wikidata,,Q1980945,way
 Opfikonstrasse,wikidata,,Q64224,way
 Rathausbrücke,wikidata,,Q9315546,way
+Regensdorferstrasse,wikidata,,Q64205,way
 Riesbachstrasse,wikidata,,Q677710,way
 Rotachstrasse,wikidata,,Q2473618,way
 Rüdigerstrasse,wikidata,,Q29001841,way
+Rümlangstrasse,wikidata,,Q67894,way
 Salvatorstrasse,wikidata,,Q51625,way
 Säntisstrasse,wikidata,,Q15224,way
 Schächenstrasse,wikidata,,Q690565,way
@@ -123,7 +129,7 @@ Sihlstrasse,wikidata,,Q660909,way
 Stettbachstrasse,wikidata,,Q22393278,way
 Sustenstrasse,wikidata,,Q666086,way
 Sustenweg,wikidata,,Q666086,way
-Tellstrasse,wikidata,,Q30908,relation
+Tellstrasse,wikidata,,Q30908,way
 Thurgauerstrasse,wikidata,,Q12713,way
 Uetliberghalde,wikidata,,Q16524,way
 Uetlibergstrasse,wikidata,,Q16524,way
@@ -134,6 +140,7 @@ Venusstrasse,wikidata,,Q47652,way
 Viktoriastrasse,wikidata,,Q308902,way
 Viktoriaweg,wikidata,,Q308902,way
 Wallisellenstrasse,wikidata,,Q69374,way
+Wehntalerstrasse,wikidata,,Q2554493,way
 Weststrasse,wikidata,,Q679,way
 "Weststrasse Wallisellen",wikidata,,Q679,way
 Wilfriedstrasse,wikidata,,Q16291791,way
@@ -145,6 +152,7 @@ Wipkingerweg,wikidata,,Q678030,way
 Witikonerstrasse,wikidata,,Q392079,way
 Wotanstrasse,wikidata,,Q43610,way
 Zollikerstrasse,wikidata,,Q218665,way
+Zürcherstrasse,wikidata,,Q72,way
 Abeggweg,,,,way
 Abendweg,,,,way
 Ackermannstrasse,,,,way
@@ -223,6 +231,7 @@ Atrium,,,,way
 Aubrigstrasse,,,,way
 Aubruggstrasse,,,,way
 Aubruggweg,,,,way
+Auenweg,,,,way
 "Auf der Egg",,,,way
 "Auf der Mauer",,,,way
 Auhofstrasse,,,,way
@@ -632,6 +641,7 @@ Friedhofstrasse,,,,way
 Friesenberghalde,,,,way
 Friesenbergplatz,,,,way
 Friesenbergstrasse,,,,way
+"Friesenburgpfad Süd",,,,way
 Friesenburgweg,,,,way
 Fritschiwiese,,,,way
 Frohalpstrasse,,,,way
@@ -692,11 +702,9 @@ Girhaldenstrasse,,,,way
 Girhaldenweg,,,,way
 Gladiolenweg,,,,way
 Glärnischstrasse,,,,way
-Glattalstrasse,,,,way
 Glättlistrasse,,,,way
 Glattparkstrasse,,,,way
 Glattstegweg,,,,way
-Glatttalstrasse,,,,way
 Glattweg,,,,way
 Glattwiesenstrasse,,,,way
 Glaubtensteig,,,,way
@@ -756,6 +764,7 @@ Gubelplatz,,,,way
 Gubelstrasse,,,,way
 Gubristweg,,,,way
 Güetliweg,,,,way
+Guggach,,,,way
 Guggachstrasse,,,,way
 Guggerweg,,,,way
 Gugolzstrasse,,,,way
@@ -834,6 +843,7 @@ Heidwiesen,,,,way
 Heiligfeld,,,,way
 Heilighüsli,,,,way
 Heimatstrasse,,,,way
+"Heinz Gabi-Weg",,,,way
 Heizenholz,,,,way
 Hellrainweg,,,,way
 Helvetiaplatz,,,,way
@@ -908,10 +918,8 @@ Holzgasse,,,,way
 Holzhofweg,,,,way
 Holzmatt,,,,way
 Holzwiesweg,,,,relation
-"Home Office Trail",,,,way
 Hönggerbergring,,,,way
 Hönggerrampe,,,,way
-Hönggerstrasse,,,,way
 Hönggerwehr,,,,way
 Honigstrasse,,,,way
 Honrainweg,,,,way
@@ -1039,11 +1047,11 @@ Kalchtarenweg,,,,way
 Kalkbreitestrasse,,,,relation+way
 Kämbelgasse,,,,way
 Kanalstrasse,,,,way
-Kanonengasse,,,,relation
+Kanonengasse,,,,way
 Kantonsschulstrasse,,,,way
 Känzelistrasse,,,,way
 Känzeliweg,,,,way
-Kanzleistrasse,,,,relation+way
+Kanzleistrasse,,,,way
 Kapfsteig,,,,way
 Kapfstrasse,,,,way
 Kappelergasse,,,,way
@@ -1052,11 +1060,12 @@ Kappeliholzstrasse,,,,way
 Kappelistrasse,,,,way
 Kappenbühlstrasse,,,,way
 Kappenbühlweg,,,,way
-"Karl Ochsner-Platz",,,,relation
+Karl-Ochsner-Platz,,,,relation
 Karlstrasse,,,,way
 Karstlernstrasse,,,,way
 Kartausstrasse,,,,way
 Kartoffelmarkt,,,,way
+Kasernenareal,,,,way
 Kasernenstrasse,,,,way
 Kasernenwiese,,,,way
 Käshaldenstrasse,,,,way
@@ -1113,7 +1122,6 @@ Köhlerstrasse,,,,way
 Kolbenacker,,,,way
 Kolbenhofereggstrasse,,,,way
 Kolbenhofstrasse,,,,way
-Kolibriweg,,,,way
 Kollerwiese,,,,way
 Kolonistenweg,,,,way
 Köngengasse,,,,way
@@ -1187,9 +1195,9 @@ Laternengasse,,,,way
 Lättenweg,,,,way
 Laubfroschweg,,,,way
 Laubiweg,,,,way
-"Laufbahn Turner Rösli",,,,way
 Läufebachweg,,,,way
 Läufeweg,,,,way
+Läufeweg-Stutz,,,,way
 Laurenzgasse,,,,way
 Lavendelweg,,,,way
 Lebristweg,,,,way
@@ -1313,11 +1321,9 @@ Metzgerwegli,,,,way
 Micafilstrasse,,,,way
 Milchbuckstrasse,,,,way
 Militärbrücke,,,,way
-Militärstrasse,,,,relation
+Militärstrasse,,,,way
 Mimosenstrasse,,,,way
-"Minigolf Hard",,,,way
 "Minigolf Sperletwies",,,,way
-"Miranda Graf Weg",,,,way
 Mittagweg,,,,way
 Mittelbergsteig,,,,way
 Mittelstrasse,,,,way
@@ -1496,12 +1502,11 @@ Primelstrasse,,,,way
 Probsteistrasse,,,,way
 Probusweg,,,,way
 Promenadengasse,,,,way
-"Pumptrack Bikepark Zürich",,,,way
-"Pumptrack Zürich Allmend",,,,way
 Püntstrasse,,,,way
 Quadroplatz,,,,way
 Quaibrücke,,,,way
 "Quartierpark Berghalden",,,,way
+"Quartierpark Josef-Areal",,,,way
 "Quartierpark Rosengarten",,,,way
 Quarzstrasse,,,,way
 Quellenstrasse,,,,way
@@ -1536,7 +1541,6 @@ Reckenholzstrasse,,,,way
 Reckenholzweg,,,,way
 Regensbergbrücke,,,,way
 Regensbergstrasse,,,,way
-Regensdorferstrasse,,,,way
 Reginastrasse,,,,way
 Rehalpstrasse,,,,relation
 Rehgässchen,,,,way
@@ -1612,7 +1616,6 @@ Rudenzweg,,,,way
 Rudolfstrasse,,,,way
 Ruggernweg,,,,way
 Ruhestrasse,,,,way
-Rümlangstrasse,,,,way
 Rumpelhaldensteig,,,,way
 Rumpelhaldenweg,,,,way
 Rumpumpsteig,,,,way
@@ -1677,7 +1680,6 @@ Schlossgasse,,,,way
 Schlössliareal,,,,way
 Schlösslistrasse,,,,way
 Schlössliweg,,,,way
-Schlugenweg,,,,way
 Schluhenweg,,,,way
 Schlüsselgasse,,,,way
 Schmelzbergstrasse,,,,way
@@ -1813,13 +1815,12 @@ Spitalbachweg,,,,way
 Spitalgasse,,,,way
 Spitzackerstrasse,,,,way
 Splügenstrasse,,,,way
-"Sportanlage Utogrund",,,,way
 Sportweg,,,,way
 Sprecherstrasse,,,,way
 Sprensenbühlstrasse,,,,way
 Spulenbrücke,,,,way
 Spulenweg,,,,way
-"St. Jakobstrasse",,,,relation
+"St. Jakobstrasse",,,,way
 "St. Moritzstrasse",,,,way
 "St. Peterhofstatt",,,,way
 "St. Peterstrasse",,,,way
@@ -1957,6 +1958,7 @@ Turnersteig,,,,way
 Turnerstrasse,,,,way
 Tuschgenweg,,,,way
 "USZ Staff access",,,,way
+Überlandstrasse,,,,way
 Ueberlandstrasse,,,,way
 Uetliberg,,,,way
 Uetlibergtunnel,,,,way
@@ -2019,6 +2021,7 @@ Waldgartenweg,,,,way
 Waldhausstrasse,,,,way
 Waldhüslistrasse,,,,way
 Waldkauzweg,,,,way
+Waldlehrpfad,,,,way
 "Waldlehrpfad Adlisberg",,,,way
 Wäldlistrasse,,,,way
 Waldmeisterweg,,,,way
@@ -2038,7 +2041,6 @@ Wasserwerkstrasse,,,,way
 Wechselwiesenstrasse,,,,way
 Wegackerstrasse,,,,way
 Weggengasse,,,,way
-Wehntalerstrasse,,,,way
 Wehrenbachhalde,,,,way
 Weibelackerstrasse,,,,way
 Weibelackerweg,,,,way
@@ -2131,15 +2133,13 @@ Zollbrücke,,,,way
 Zollstrasse,,,,way
 Zooweg,,,,way
 "Zufahrt Rampe 18",,,,way
-Züghusplatz,,,,way
+Züghusplatz,,,,relation+way
 "Zum Sillerblick",,,,way
 "Zur frohen Aussicht",,,,way
-Zürcherstrasse,,,,way
 Züri-Fussweg,,,,way
 "Zürich Süd",,,,way
 Zürichbergstrasse,,,,way
 Zürichholzstrasse,,,,way
-Zürichstrasse,,,,way
 Zürichweg,,,,way
 Zurlindenstrasse,,,,way
 Zwängiweg,,,,way
@@ -2153,3 +2153,4 @@ Zwirnerstrasse,,,,way
 Zwischenbächen,,,,way
 Zwischengeschoss,,,,relation
 Zypressenstrasse,,,,way
+"no name",,,,way
