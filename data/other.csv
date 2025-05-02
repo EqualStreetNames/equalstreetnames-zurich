@@ -139,6 +139,8 @@ Uraniastrasse,wikidata,,Q104002,way
 Venusstrasse,wikidata,,Q47652,way
 Viktoriastrasse,wikidata,,Q308902,way
 Viktoriaweg,wikidata,,Q308902,way
+Waldgartenstrasse,wikidata,,Q28533347,way
+Waldgartenweg,wikidata,,Q28533347,way
 Wallisellenstrasse,wikidata,,Q69374,way
 Wehntalerstrasse,wikidata,,Q2554493,way
 Weststrasse,wikidata,,Q679,way
@@ -218,6 +220,7 @@ Anemonenstrasse,,,,way
 Ankengasse,,,,way
 Ankenweid,,,,way
 Ankerstrasse,,,,relation
+Anna-Häuptli-Weg,,,,way
 Anwandstrasse,,,,relation
 Arbentalstrasse,,,,way
 Arosasteig,,,,way
@@ -360,7 +363,6 @@ Brandschenkesteig,,,,way
 Brandschenkestrasse,,,,way
 Brandweg,,,,way
 Brauerstrasse,,,,relation
-Breitenackerstrasse,,,,way
 Breitenlooweg,,,,way
 Breitensteinstrasse,,,,way
 Breitlooweg,,,,way
@@ -726,7 +728,7 @@ Grabenweg,,,,way
 Grabenwies,,,,way
 Gräbligasse,,,,way
 Granitweg,,,,way
-Gratstrasse,,,,relation+way
+Gratstrasse,,,,relation
 Gratweg,,,,way
 Gratwegli,,,,way
 "Graue Gasse",,,,way
@@ -774,6 +776,7 @@ Gustav-Ammann-Park,,,,way
 Güterstrasse,,,,way
 Guthirtstrasse,,,,way
 Gutstrasse,,,,way
+Gutsweg,,,,way
 Gwandensteig,,,,way
 Habsburgstrasse,,,,way
 Häderlihof,,,,way
@@ -1540,6 +1543,7 @@ Rebhaldenstrasse,,,,way
 Rebhügelstrasse,,,,relation
 Rebhüsliweg,,,,way
 Rebstockweg,,,,way
+Rechberggarten,,,,way
 Reckenholzstrasse,,,,way
 Reckenholzweg,,,,way
 Regensbergbrücke,,,,way
@@ -2019,8 +2023,6 @@ Walchestrasse,,,,way
 Walchetor,,,,way
 Walchetreppe,,,,way
 Waldeggweg,,,,way
-Waldgartenstrasse,,,,way
-Waldgartenweg,,,,way
 Waldhausstrasse,,,,way
 Waldhüslistrasse,,,,way
 Waldkauzweg,,,,way
