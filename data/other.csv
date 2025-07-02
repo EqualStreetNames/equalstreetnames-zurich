@@ -397,6 +397,7 @@ Bucheggstrasse,,,,way
 Buchenbaumweg,,,,way
 Buchenrainstrasse,,,,way
 Buchenrainweg,,,,way
+"Buchenrainweg temporär",,,,way
 Buchensteig,,,,way
 Buchenweg,,,,way
 Buchfinkenstrasse,,,,way
@@ -575,8 +576,8 @@ Feilengasse,,,,way
 Feldblumenstrasse,,,,way
 Feldblumenweg,,,,way
 Feldeggstrasse,,,,way
-Feldenmoosstrasse,,,,way
 Feldgütliweg,,,,relation
+Feldmoosweg,,,,way
 Feldstrasse,,,,relation
 Felsberg,,,,way
 Felsenkellerweg,,,,way
@@ -730,6 +731,7 @@ Grabenwies,,,,way
 Gräbligasse,,,,way
 Granitweg,,,,way
 Gratstrasse,,,,relation
+"Gratstrasse - temporarily paved",,,,relation
 Gratweg,,,,way
 Gratwegli,,,,way
 "Graue Gasse",,,,way
@@ -777,7 +779,7 @@ Gustav-Ammann-Park,,,,way
 Güterstrasse,,,,way
 Guthirtstrasse,,,,way
 Gutstrasse,,,,way
-Gutsweg,,,,way
+Gutweg,,,,way
 Gwandensteig,,,,way
 Habsburgstrasse,,,,way
 Häderlihof,,,,way
@@ -912,7 +914,7 @@ Hohenklingensteig,,,,way
 Hohenklingenstrasse,,,,way
 Höhenring,,,,way
 Höhensteig,,,,way
-Hohensteinstrasse,,,,relation
+Hohensteinstrasse,,,,relation+way
 Hohensteinweg,,,,relation
 Höhenweg,,,,way
 Hohlstrasse,,,,relation+way
@@ -1124,6 +1126,7 @@ Kluspark,,,,way
 Klusplatz,,,,way
 Klusstrasse,,,,way
 Klusweg,,,,way
+Koch-Park,,,,way
 Kohlenplatzwegli,,,,way
 Köhlerstrasse,,,,way
 Kolbenacker,,,,way
@@ -1814,6 +1817,7 @@ Sperletweg,,,,way
 Spiegelgasse,,,,way
 Spiegelhofstrasse,,,,way
 Spielweg,,,,way
+"Spielwiese Waldgarten",,,,way
 Spielwiesenstrasse,,,,way
 Spillmannweg,,,,way
 Spindelstrasse,,,,way
@@ -2025,6 +2029,7 @@ Walcheplatz,,,,way
 Walchestrasse,,,,way
 Walchetor,,,,way
 Walchetreppe,,,,way
+Waldegg,,,,way
 Waldeggweg,,,,way
 Waldhausstrasse,,,,way
 Waldhüslistrasse,,,,way
