@@ -327,6 +327,7 @@ Bibliothekshof,,,,way
 Bienenstrasse,,,,way
 Binzallee,,,,way
 Binzmühlestrasse,,,,way
+"Binzmühlestrasse - temporary oneway",,,,relation
 Binzring,,,,way
 Binzstrasse,,,,way
 Binzwiesenstrasse,,,,way
@@ -450,6 +451,7 @@ Chriesiweg,,,,way
 Chüpliweg,,,,way
 Chutzenstrasse,,,,way
 Claridenstrasse,,,,way
+"Coop Anlieferung",,,,way
 Cyklamenweg,,,,way
 Dachslernstrasse,,,,way
 Dachslernweg,,,,way
@@ -977,7 +979,6 @@ Ilgenstrasse,,,,way
 "Im Hau",,,,way
 "Im Hegi",,,,way
 "Im Heimgärtli",,,,way
-"Im Herrenhölzli",,,,way
 "Im Heuried",,,,way
 "Im Hofgarten",,,,way
 "Im Holzerhurd",,,,way
