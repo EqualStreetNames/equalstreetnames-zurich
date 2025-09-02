@@ -220,6 +220,7 @@ Anemonenstrasse,,,,way
 Ankengasse,,,,way
 Ankenweid,,,,way
 Ankerstrasse,,,,relation
+Anlieferung,,,,way
 Anna-Häuptli-Weg,,,,way
 Anwandstrasse,,,,relation
 Arbentalstrasse,,,,way
@@ -390,6 +391,7 @@ Brünneliacker,,,,way
 Brünneliweg,,,,way
 Brunnenhofstrasse,,,,way
 Brunnenhofweg,,,,way
+Brunnenwiesenstrasse,,,,way
 Brunngasse,,,,way
 Brunnwiesenstrasse,,,,way
 Brüttenweg,,,,way
@@ -515,6 +517,7 @@ Eigenheimstrasse,,,,way
 Eigenstrasse,,,,way
 Eigenwasenstrasse,,,,way
 Einfangstrasse,,,,way
+"Einhausung Schwamendingen",,,,way
 Eisenbahnerstrasse,,,,way
 Eisengasse,,,,way
 Eisfeldstrasse,,,,way
@@ -740,7 +743,6 @@ Gratwegli,,,,way
 Grebelackerstrasse,,,,way
 Greblerweg,,,,way
 Greifenseestrasse,,,,way
-Grenzsporn,,,,way
 Grenzsteig,,,,way
 Grenzwiesweg,,,,way
 Gretenweg,,,,way
@@ -1376,6 +1378,7 @@ Murwiesenweg,,,,way
 Müseliweg,,,,way
 Museumstrasse,,,,way
 Mutschellenstrasse,,,,way
+Mutzeli-Weg,,,,way
 Mythenquai,,,,way
 Nagelfluhweg,,,,way
 Nägelistrasse,,,,way
@@ -1507,6 +1510,7 @@ Polenweg,,,,way
 Polyterrasse,,,,way
 Postbrücke,,,,way
 Poststrasse,,,,way
+Postterrasse,,,,way
 Predigergasse,,,,way
 Predigerplatz,,,,way
 Preyergasse,,,,way
@@ -1974,7 +1978,6 @@ Turnerstrasse,,,,way
 Tuschgenweg,,,,way
 "USZ Staff access",,,,way
 Überlandpark,,,,way
-Überlandstrasse,,,,way
 Ueberlandstrasse,,,,way
 Uetliberg,,,,way
 Uetlibergtunnel,,,,way
