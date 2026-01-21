@@ -368,6 +368,7 @@ Eisgasse,,,,relation
 Eisvogelweg,,,,way
 Elefantenweg,,,,way
 Elisabeth-Schnell-Weg,,,,way
+Elsa-Cavelti-Weg,,,,way
 Elsässergasse,,,,way
 Engadinerweg,,,,way
 Engimattstrasse,,,,way
@@ -617,6 +618,7 @@ Gubelplatz,,,,way
 Gubelstrasse,,,,way
 Gubristweg,,,,way
 Güetliweg,,,,way
+Gugelweg,,,,way
 Guggach,,,,way
 Guggachstrasse,,,,way
 Guggerweg,,,,way
@@ -1317,6 +1319,9 @@ Passage,,,,way
 "Passerelle Gleisbogen",,,,way
 "Passerelle Haspelsteg",,,,way
 Patumbah-Park,,,,way
+Paul-Burkhard-Strasse,,,,way
+Paul-Hindemith-Strasse,,,,way
+Paul-Hindemith-Weg,,,,way
 Pelikanplatz,,,,way
 Pelikanstrasse,,,,way
 Peterstobelstrasse,,,,way
@@ -1349,7 +1354,6 @@ Plaza,,,,relation
 Plenterweg,,,,way
 Pocketplatz,,,,way
 Polenweg,,,,way
-Polyterrasse,,,,way
 Postbrücke,,,,way
 Poststrasse,,,,way
 Postterrasse,,,,way
@@ -1440,6 +1444,7 @@ Rodungsweg,,,,way
 Roggenstrasse,,,,way
 Röhrenweg,,,,way
 Rolandstrasse,,,,relation
+Rolf-Liebermann-Weg,,,,way
 Rollengasse,,,,way
 Rolliweg,,,,way
 Römergasse,,,,way
@@ -1744,7 +1749,6 @@ Strehlgasse,,,,way
 Streitholzstrasse,,,,way
 Strickhofstrasse,,,,way
 Studackerstrasse,,,,way
-Stüdliweg,,,,way
 Südstrasse,,,,way
 Sumatrasteig,,,,way
 Sumatrastrasse,,,,way
@@ -1818,7 +1822,7 @@ Turnersteig,,,,way
 Turnerstrasse,,,,way
 Tuschgenweg,,,,way
 "USZ Staff access",,,,way
-Überlandpark,,,,way
+Ueberlandpark,,,,way
 Ueberlandstrasse,,,,way
 Uetliberg,,,,way
 Ulmbergstrasse,,,,way
@@ -1856,7 +1860,6 @@ Vorderberg,,,,way
 Vorhaldenstrasse,,,,way
 "Vorplatz Globusprovisorium",,,,way
 Vulkanplatz,,,,way
-Vulkanstrasse,,,,way
 Waaggasse,,,,way
 Wachtelstrasse,,,,way
 Waffenplatzstrasse,,,,relation+way
