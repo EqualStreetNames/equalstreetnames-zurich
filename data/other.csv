@@ -33,6 +33,7 @@ Allmendweg,,,,way
 "Alte Feldeggstrasse",,,,way
 "Alte Forchstrasse",,,,way
 "Alte Kalchbühlstrasse",,,,way
+"Alte Landstrasse",,,,way
 "Alte Mühlackerstrasse",,,,way
 "Alte Regensdorferstrasse",,,,way
 Altenhofstrasse,,,,way
@@ -442,7 +443,6 @@ Feusisbergli,,,,way
 Fichtenstrasse,,,,way
 "Findlingsgarten Kappenbühl",,,,way
 Finkenrain,,,,way
-"Finnenbahn Albisgüetli",,,,way
 "Finnenbahn Allmend Fluntern",,,,way
 "Finnenbahn Altstetterwald",,,,way
 "Finnenbahn Buhn",,,,way
@@ -515,6 +515,7 @@ Furttalstrasse,,,,way
 Gablerstrasse,,,,way
 Gämsenstrasse,,,,way
 Gänziloobrücke,,,,way
+Gänziloostrasse,,,,way
 Gänzilooweg,,,,way
 "Garten der Kunst",,,,way
 Gartenhofstrasse,,,,relation+way
@@ -581,7 +582,6 @@ Grabenwies,,,,way
 Gräbligasse,,,,way
 Granitweg,,,,way
 Gratstrasse,,,,relation
-"Gratstrasse - temporarily paved",,,,relation
 Gratweg,,,,way
 Gratwegli,,,,way
 "Graue Gasse",,,,way
@@ -594,7 +594,6 @@ Gretenweg,,,,way
 Griesernweg,,,,way
 Grimselstrasse,,,,relation
 Grossackerstrasse,,,,way
-Grossalbis,,,,way
 Grossmannstrasse,,,,way
 Grossmünsterplatz,,,,way
 Grossrieglenweg,,,,way
@@ -785,6 +784,7 @@ Horensteinstrasse,,,,way
 Horgenweg,,,,way
 Hornbachstrasse,,,,way
 Horneggstrasse,,,,way
+Horngasse,,,,way
 Hörnlistrasse,,,,way
 Hortensienstrasse,,,,way
 Höschgasse,,,,way
@@ -886,9 +886,9 @@ Irchelpark,,,,way
 Irchelstrasse,,,,way
 Irisstrasse,,,,way
 Jägergasse,,,,way
-Jakob-Wegmann-Weg,,,,way
 Jasminweg,,,,way
 Johannastrasse,,,,way
+Josefwiese,,,,way
 Jucheggstrasse,,,,way
 Juchstrasse,,,,way
 Jungholzhof,,,,way
@@ -937,6 +937,7 @@ Katzenseestrasse,,,,way
 Katzenseetunnel,,,,way
 Katzentischstrasse,,,,way
 Kehlhofstrasse,,,,way
+Kehrplatz,,,,way
 Kelchweg,,,,way
 Keltenstrasse,,,,way
 Kempfhofsteig,,,,way
@@ -1539,7 +1540,6 @@ Schindlergut,,,,way
 Schipfe,,,,way
 Schlehdornweg,,,,way
 Schlierenberg,,,,way
-Schlittelweg,,,,way
 Schlossergasse,,,,way
 Schlossgasse,,,,way
 Schlössliareal,,,,way
