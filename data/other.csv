@@ -375,6 +375,7 @@ Engimattstrasse,,,,way
 Englischviertelstrasse,,,,way
 Engstringerweg,,,,way
 Engweg,,,,way
+Entlisberg-/Lochenweg,,,,way
 Entlisbergbrücke,,,,way
 Entlisbergstrasse,,,,way
 Entlisbergweg,,,,way
@@ -401,7 +402,6 @@ Etzelstrasse,,,,way
 Etzelweg,,,,way
 Eulenweg,,,,way
 Europaallee,,,,way
-"Europaallee Passage",,,,way
 Europabrücke,,,,way
 Europaplatz,,,,way
 Eyhof,,,,way
@@ -609,7 +609,6 @@ Grünwaldweg,,,,way
 Grütholzstrasse,,,,way
 Grütlistrasse,,,,way
 Grütstrasse,,,,way
-Gstalderweg,,,,way
 Gsteigstrasse,,,,way
 Gubelhangstrasse,,,,way
 Gubelplatz,,,,way
@@ -1310,6 +1309,7 @@ Pappelstrasse,,,,way
 Paradeplatz,,,,relation
 Paradiesstrasse,,,,way
 "Park Museum für Gestaltung",,,,way
+"Parkplatzbrache Hunziker Areal",,,,way
 Parkring,,,,way
 Passage,,,,way
 "Passage Bahnhofstrasse",,,,relation
@@ -1346,6 +1346,7 @@ Pilgerweg,,,,way
 Platanenhof,,,,way
 Plätschweg,,,,way
 Plattenholzweg,,,,way
+Plattenplatz,,,,way
 Plattenstrasse,,,,way
 Platzpromenade,,,,way
 Platzspitzbrücke,,,,way
@@ -1637,6 +1638,7 @@ Sihlquai,,,,way
 Sihlquai-Nordrampe,,,,way
 Sihlquai-Südrampe,,,,way
 Sihlrainstrasse,,,,way
+Sihluferweg,,,,way
 Sihlweidstrasse,,,,way
 Sillerweg,,,,way
 Sillerwies,,,,way
@@ -1996,7 +1998,6 @@ Züghusplatz,,,,relation+way
 "Zur frohen Aussicht",,,,way
 Züri-Fussweg,,,,way
 "Zürich Süd",,,,way
-Zürichbergstrasse,,,,way
 Zürichholzstrasse,,,,way
 Zürichweg,,,,way
 Zurlindenstrasse,,,,way
