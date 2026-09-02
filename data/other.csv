@@ -38,7 +38,6 @@ Allmendweg,,,,way
 "Alte Regensdorferstrasse",,,,way
 Altenhofstrasse,,,,way
 "Alter Kirchenweg",,,,way
-"Alter Zürichweg",,,,way
 Althoossteig,,,,way
 Althoosstrasse,,,,way
 Altstetterplatz,,,,way
@@ -1475,6 +1474,7 @@ Roswiesenstrasse,,,,way
 Rotbuchstrasse,,,,way
 Rötelsteig,,,,way
 Rötelstrasse,,,,way
+Rotfluhstrasse,,,,way
 Rotwandstrasse,,,,relation
 Rübenweg,,,,way
 Ruchackerstrasse,,,,way
@@ -1836,7 +1836,6 @@ Ulrichstrasse,,,,way
 Unionstrasse,,,,way
 "Unter Betentalweg",,,,way
 "Untere Zäune",,,,way
-"Unterer Brandweg",,,,way
 "Unterer Kalberhauweg",,,,way
 "Unterer Pfaffhauserweg",,,,way
 "Unterer Selnauweg",,,,way
@@ -1847,6 +1846,7 @@ Unterholzstrasse,,,,way
 Unterholzweg,,,,way
 Untermoosstrasse,,,,way
 Unterwerkstrasse,,,,way
+"Urs Weyermann-Weg",,,,way
 Urselweg,,,,way
 "Uto Kulm",,,,relation
 Utobrücke,,,,way
@@ -2002,6 +2002,7 @@ Züghusplatz,,,,relation+way
 Züri-Fussweg,,,,way
 "Zürich Süd",,,,way
 Zürichholzstrasse,,,,way
+Zürichstrasse,,,,way
 Zürichweg,,,,way
 Zurlindenstrasse,,,,way
 Zwängiweg,,,,way
